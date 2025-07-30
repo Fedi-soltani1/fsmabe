@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<DeclarationReport xmlns="http://www.onegate.eu/2010-01-01">
+  <Administration creationTime="2015-03-16T09:32:16">
+    <From declarerType="KBO">0000000099</From>
+    <To>FSMA</To>
+    <Domain>IORP</Domain>
+    <Response>
+      <Email>DummyEmailAddress@fsma.be</Email>
+      <Language>EN</Language>
+    </Response>
+  </Administration>
+  <Report code="IORP_PRM" date="2015-12">
+    <Data form="PRM030">
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">TDI0001</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">Option</Dim>
+      </Item>
+    </Data>
+    <Data form="PRM025">
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">OUT0001</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">FSMA Consulting</Dim>
+      </Item>
+    </Data>
+    <Data form="PRM010">
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">REG0001</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">Supplementary pensions</Dim>
+      </Item>
+    </Data>
+    <Data form="PRM015">
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">ORG0001</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">FSMA</Dim>
+      </Item>
+    </Data>
+    <Data form="PRM005">
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">PFB0001</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">Seperate Fund 1</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALSTRING">PFB0002</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALSTRING">Seperate Fund 2</Dim>
+      </Item>
+    </Data>
+    <Data form="PRM035">
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">TUE0001</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">Shares</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALSTRING">TUE0002</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">010</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALSTRING">Index 1</Dim>
+      </Item>
+    </Data>
+  </Report>
+</DeclarationReport>

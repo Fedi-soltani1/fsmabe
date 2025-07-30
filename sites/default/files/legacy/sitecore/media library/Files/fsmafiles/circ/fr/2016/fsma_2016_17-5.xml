@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.onegate.eu/2010-01-01" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="DeclarationReport">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Administration">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="From">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:unsignedByte">
+                      <xs:attribute name="declarerType" type="xs:string" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="To" type="xs:string" />
+              <xs:element name="Domain" type="xs:string" />
+              <xs:element name="Response">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Email" type="xs:string" />
+                    <xs:element name="Language" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="creationTime" type="xs:dateTime" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="Data">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="Item">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element maxOccurs="unbounded" name="Dim">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:string">
+                                  <xs:attribute name="prop" type="xs:string" use="required" />
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="form" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="code" type="xs:string" use="required" />
+            <xs:attribute name="date" type="xs:gYearMonth" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

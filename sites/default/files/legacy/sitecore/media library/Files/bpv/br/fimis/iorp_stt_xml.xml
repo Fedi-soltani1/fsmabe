@@ -1,0 +1,856 @@
+<?xml version="1.0"?>
+<DeclarationReport xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.onegate.eu/2010-01-01">
+  <Administration creationTime="2020-04-09T10:39:41">
+    <From declarerType="KBO">0000000099</From>
+    <To>FSMA</To>
+    <Domain>IORP</Domain>
+    <Response>
+      <Email>DummyEmailAddress@fsma.be</Email>
+      <Language>EN</Language>
+    </Response>
+  </Administration>
+  <Report code="IORP_STT" date="2020-12">
+    <Data form="STT005" action="replace">
+      <Item>
+        <Dim prop="RUB">1005</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">500000000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1005</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">300000000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1005</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">150000000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1005</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">50000000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">330000000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1010</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">200000000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1010</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">100000000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1010</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">30000000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1020</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">2100.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1020</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">1000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1020</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">800.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">1020</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">300.00</Dim>
+      </Item>
+    </Data>
+    <Data form="STT010" action="replace">
+      <Item>
+        <Dim prop="RUB">2000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">0.08</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">2010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">1000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">2020</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">1000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">2030</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">1000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">2040</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">1000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">2100</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">10000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">2110</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">8000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">2120</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="VALNUM">2000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">2200</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALSTRING">Andere financieringsmethode</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">2200</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="FIL_PRM010.1.Regimes">REG0001</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALNUM">30000</Dim>
+      </Item>
+    </Data>
+    <Data form="STT015" action="replace">
+      <Item>
+        <Dim prop="RUB">310</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="VALNUM">30000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">310</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="VALNUM">20000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">310</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="VALNUM">10000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">320</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="VALNUM">30000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">320</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="VALNUM">20000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">320</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="VALNUM">10000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">330</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="VALNUM">30000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">330</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="VALNUM">20000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">330</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="VALNUM">10000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">340</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="VALNUM">30000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">340</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="VALNUM">20000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">340</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="VALNUM">10000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">350</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="VALNUM">120000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">350</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="VALNUM">80000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">350</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="VALNUM">40000000.00</Dim>
+      </Item>
+    </Data>
+    <Data form="STT025" action="replace">
+      <Item>
+        <Dim prop="RUB">5005</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">365126051.90</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5005</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">365126051.90</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5007</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">134873948.10</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5007</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">134873948.10</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">500000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5010</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">500000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5020</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">250000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5020</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">250000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5025</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">0</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5025</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">20000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5030</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">100000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5030</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">100000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5040</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">0</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5040</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">0</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5050</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">0</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5050</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">0</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5060</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">100000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5060</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">0</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5070</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">450000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5070</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">350000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5080</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">50000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5080</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">150000000.00</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5090</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">1.1111111111111111111111111111</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5090</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">1.4285714285714285714285714286</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5100</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">115126051.90</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5100</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">115126051.90</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5110</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">1.4605042076</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5110</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">1.4605042076</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5120</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">345126051.90</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5120</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">365126051.90</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5130</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0001</Dim>
+        <Dim prop="VALNUM">18.256302595</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">5130</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="FIL_PRM015.1.EntrAffiliation">ORG0002</Dim>
+        <Dim prop="VALNUM">0</Dim>
+      </Item>
+    </Data>
+    <Data form="STT040" action="replace">
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">4545</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALLIST">CAU</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALLIST">BE</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALLIST">Pacific</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">025</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">Stille Oceaan</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">030</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALLIST">K6419</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">035</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALLIST">40101010</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">040</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALLIST">Fin</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">045</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALSTRING">Bank2</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">0</Dim>
+        <Dim prop="VALNUM">100</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALSTRING">BN0000123456</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALLIST">ISIN</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALLIST">FR</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALLIST">SEAsia</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">025</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALSTRING">Antarctica</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">030</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALLIST">A0112</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">035</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALLIST">30202010</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">040</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALLIST">ConsDisc</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">045</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALSTRING">Teelt van rijst</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">1</Dim>
+        <Dim prop="VALNUM">151</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">2</Dim>
+        <Dim prop="VALSTRING">FFBUSUSD0291</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">2</Dim>
+        <Dim prop="VALLIST">CAU</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="KEY">2</Dim>
+        <Dim prop="VALLIST">BE</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">030</Dim>
+        <Dim prop="KEY">2</Dim>
+        <Dim prop="VALLIST">A</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">2</Dim>
+        <Dim prop="VALNUM">1000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">3</Dim>
+        <Dim prop="VALSTRING">FFBUSUSD0291</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">3</Dim>
+        <Dim prop="VALLIST">CAU</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="KEY">3</Dim>
+        <Dim prop="VALLIST">BE</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">030</Dim>
+        <Dim prop="KEY">3</Dim>
+        <Dim prop="VALLIST">F</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">3</Dim>
+        <Dim prop="VALNUM">500</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">4</Dim>
+        <Dim prop="VALSTRING">FFBUSUSD0291</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">4</Dim>
+        <Dim prop="VALLIST">CAU</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="KEY">4</Dim>
+        <Dim prop="VALLIST">FR</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">030</Dim>
+        <Dim prop="KEY">4</Dim>
+        <Dim prop="VALLIST">S</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">4</Dim>
+        <Dim prop="VALNUM">2000</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">5</Dim>
+        <Dim prop="VALSTRING">FFBUSUSD0291</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">5</Dim>
+        <Dim prop="VALLIST">CAU</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="KEY">5</Dim>
+        <Dim prop="VALLIST">FR</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">030</Dim>
+        <Dim prop="KEY">5</Dim>
+        <Dim prop="VALLIST">U</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">5</Dim>
+        <Dim prop="VALNUM">1500</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">6</Dim>
+        <Dim prop="VALSTRING">LU0566334644</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">6</Dim>
+        <Dim prop="VALLIST">ISIN</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="KEY">6</Dim>
+        <Dim prop="VALLIST">EurZone</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">040</Dim>
+        <Dim prop="KEY">6</Dim>
+        <Dim prop="VALLIST">NRJ</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">6</Dim>
+        <Dim prop="VALNUM">200</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">7</Dim>
+        <Dim prop="VALSTRING">LU0566334644</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">7</Dim>
+        <Dim prop="VALLIST">ISIN</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="KEY">7</Dim>
+        <Dim prop="VALLIST">LatAm</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">040</Dim>
+        <Dim prop="KEY">7</Dim>
+        <Dim prop="VALLIST">Mat</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">7</Dim>
+        <Dim prop="VALNUM">300</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">8</Dim>
+        <Dim prop="VALSTRING">LU0566334644</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">8</Dim>
+        <Dim prop="VALLIST">ISIN</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="KEY">8</Dim>
+        <Dim prop="VALLIST">EmMark</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">040</Dim>
+        <Dim prop="KEY">8</Dim>
+        <Dim prop="VALLIST">Ind</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">8</Dim>
+        <Dim prop="VALNUM">400</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">9</Dim>
+        <Dim prop="VALSTRING">LU0566334644</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">9</Dim>
+        <Dim prop="VALLIST">ISIN</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="KEY">9</Dim>
+        <Dim prop="VALLIST">Oth</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">040</Dim>
+        <Dim prop="KEY">9</Dim>
+        <Dim prop="VALLIST">ConsDisc</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">9</Dim>
+        <Dim prop="VALNUM">500</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">10</Dim>
+        <Dim prop="VALSTRING">FR0000287716</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">10</Dim>
+        <Dim prop="VALLIST">ISIN</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="KEY">10</Dim>
+        <Dim prop="VALLIST">BE</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">020</Dim>
+        <Dim prop="KEY">10</Dim>
+        <Dim prop="VALLIST">Oth</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">030</Dim>
+        <Dim prop="KEY">10</Dim>
+        <Dim prop="VALLIST">B</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">10</Dim>
+        <Dim prop="VALNUM">125</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">005</Dim>
+        <Dim prop="KEY">11</Dim>
+        <Dim prop="VALSTRING">FR0000287716</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">010</Dim>
+        <Dim prop="KEY">11</Dim>
+        <Dim prop="VALLIST">ISIN</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">015</Dim>
+        <Dim prop="KEY">11</Dim>
+        <Dim prop="VALLIST">LU</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">030</Dim>
+        <Dim prop="KEY">11</Dim>
+        <Dim prop="VALLIST">C</Dim>
+      </Item>
+      <Item>
+        <Dim prop="RUB">7000</Dim>
+        <Dim prop="COL">050</Dim>
+        <Dim prop="KEY">11</Dim>
+        <Dim prop="VALNUM">225</Dim>
+      </Item>
+    </Data>
+  </Report>
+</DeclarationReport>
