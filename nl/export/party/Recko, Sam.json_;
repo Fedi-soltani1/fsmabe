@@ -1,0 +1,66 @@
+{
+    "address": [],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0749.648.266",
+    "legal_form_entity": [],
+    "legal_names": [
+        {
+            "name": "Recko, Sam",
+            "valid_from_date": "2020-07-01T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: ILP - Investment Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-12-15T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-12-15T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: OLP - Other Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-12-15T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2020-12-15T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Recko, Sam"
+}

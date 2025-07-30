@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Sint-Niklaas",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "12",
+            "phone": "",
+            "street": "Oosterlaan",
+            "valid_from_date": "2022-01-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "9100"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0659.737.877",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2025-02-17T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2016-07-13T00:00:00",
+            "valid_to_date_time": "2025-02-16T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "I-CAN",
+            "valid_from_date": "2016-07-13T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-04-19T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "I-CAN"
+}

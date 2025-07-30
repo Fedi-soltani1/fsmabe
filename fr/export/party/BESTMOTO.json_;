@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Herzele",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "393",
+            "phone": "",
+            "street": "Provincieweg",
+            "valid_from_date": "2002-12-16T00:00:00",
+            "valid_to_date": null,
+            "zip": "9550"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0441.715.234",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-11-20T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Cooperative society with limited liability"
+                }
+            ],
+            "valid_from_date_time": "1996-02-26T00:00:00",
+            "valid_to_date_time": "2023-11-19T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "BESTMOTO",
+            "valid_from_date": "1990-10-19T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2018-10-23T00:00:00",
+            "valid_to_date_time": "2025-07-11T00:00:00"
+        }
+    ],
+    "title": "BESTMOTO"
+}

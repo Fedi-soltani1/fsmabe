@@ -1,0 +1,58 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Leuven",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "77",
+            "phone": "",
+            "street": "Brusselsestraat",
+            "valid_from_date": "2025-07-15T00:00:00",
+            "valid_to_date": null,
+            "zip": "3000"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "07654",
+    "country_head_office": "BE",
+    "enterprise_number": "1024.990.684",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2025-07-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Resiterra Capital Partners",
+            "valid_from_date": "2025-07-15T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Self-managed alternative investment funds - Non-public"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian small selfmanaged AIF"
+                }
+            ],
+            "valid_from_date_time": "2025-07-15T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Resiterra Capital Partners"
+}

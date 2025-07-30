@@ -1,0 +1,97 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Diest",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "78",
+            "phone": "",
+            "street": "Koningin Astridlaan",
+            "valid_from_date": "2017-07-07T00:00:00",
+            "valid_to_date": "2025-07-28T00:00:00",
+            "zip": "3290"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "116319",
+    "country_head_office": "BE",
+    "enterprise_number": "0678.366.431",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-07-12T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2017-07-07T00:00:00",
+            "valid_to_date_time": "2023-07-11T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Res Pecuniae",
+            "valid_from_date": "2017-07-07T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Banking and investment agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian agents in Banking and investment services"
+                }
+            ],
+            "valid_from_date_time": "2017-08-22T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-08-01T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-08-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Res Pecuniae"
+}

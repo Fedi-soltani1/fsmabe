@@ -1,0 +1,63 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Maribor",
+            "country_code": "SI",
+            "email": "",
+            "house_number": "4",
+            "phone": "",
+            "street": "Ulica Vita Kraigherja",
+            "valid_from_date": "2017-01-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "2000"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "SI",
+    "enterprise_number": null,
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Foreign entity"
+                }
+            ],
+            "valid_from_date_time": "2017-01-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Nova Kreditna banka Maribor d.d.",
+            "valid_from_date": "2017-01-01T00:00:00",
+            "valid_to_date": "2024-08-21T00:00:00"
+        },
+        {
+            "name": "OTP BANKA D.D.",
+            "valid_from_date": "2024-08-22T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "A. Freedom to provide services in Belgium by credit institutions governed by the law of another EEA State /or tied agents established in that other State (Article 1, \u00a7 3, first paragraph, 1\u00b0 of the Law of 25 April 2014 on the legal status and supervision of credit institutions)"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA credit institutions"
+                }
+            ],
+            "valid_from_date_time": "2017-01-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "OTP BANKA D.D."
+}

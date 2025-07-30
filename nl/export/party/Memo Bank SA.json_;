@@ -1,0 +1,70 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Paris",
+            "country_code": "FR",
+            "email": "",
+            "house_number": "121",
+            "phone": "",
+            "street": "avenue des Champs-Elys\u00e9es",
+            "valid_from_date": "2024-09-16T00:00:00",
+            "valid_to_date": "2025-03-31T00:00:00",
+            "zip": "75008"
+        },
+        {
+            "building": "",
+            "city": "Paris",
+            "country_code": "FR",
+            "email": "",
+            "house_number": "50",
+            "phone": "",
+            "street": "avenue des Champs \u00c9lys\u00e9es",
+            "valid_from_date": "2025-04-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "75008"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "FR",
+    "enterprise_number": null,
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Foreign entity"
+                }
+            ],
+            "valid_from_date_time": "2024-09-16T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Memo Bank SA",
+            "valid_from_date": "2024-09-16T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "A. Freedom to provide services in Belgium by credit institutions governed by the law of another EEA State /or tied agents established in that other State (Article 1, \u00a7 3, first paragraph, 1\u00b0 of the Law of 25 April 2014 on the legal status and supervision of credit institutions)"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA credit institutions"
+                }
+            ],
+            "valid_from_date_time": "2024-09-16T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Memo Bank SA"
+}

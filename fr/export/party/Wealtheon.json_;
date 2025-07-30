@@ -1,0 +1,84 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "1135",
+            "phone": "",
+            "street": "Chauss\u00e9e de Waterloo",
+            "valid_from_date": "2014-03-12T00:00:00",
+            "valid_to_date": null,
+            "zip": "1180"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0423.072.032",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1990-03-27T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Wealtheon",
+            "valid_from_date": "2008-02-12T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Financial institutions that have signed on to the moratorium / Not making use of the opt-out"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Financial institutions that have signed on to the moratorium without opt out"
+                }
+            ],
+            "valid_from_date_time": "2011-08-01T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2008-02-12T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "b. Portfolio management and investment advice companies"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian portfolio management and investment advisory firms"
+                }
+            ],
+            "valid_from_date_time": "2008-02-12T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Wealtheon"
+}

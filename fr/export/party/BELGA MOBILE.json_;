@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Anderlecht",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "3",
+            "phone": "",
+            "street": "Rue de Fiennes",
+            "valid_from_date": "2024-07-12T00:00:00",
+            "valid_to_date": null,
+            "zip": "1070"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0675.839.283",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2024-07-12T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2017-05-18T00:00:00",
+            "valid_to_date_time": "2024-07-11T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "BELGA MOBILE",
+            "valid_from_date": "2017-05-18T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-11-15T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "BELGA MOBILE"
+}

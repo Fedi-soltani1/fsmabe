@@ -1,0 +1,453 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Luxembourg",
+            "country_code": "LU",
+            "email": "",
+            "house_number": "40",
+            "phone": "",
+            "street": "rue du Cur\u00e9",
+            "valid_from_date": "2018-07-12T00:00:00",
+            "valid_to_date": null,
+            "zip": "1368"
+        },
+        {
+            "building": "",
+            "city": "Anvers",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "66",
+            "phone": "",
+            "street": "Uitbreidingstraat",
+            "valid_from_date": "2022-10-05T00:00:00",
+            "valid_to_date": null,
+            "zip": "2600"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "3107",
+    "country_head_office": "LU",
+    "enterprise_number": "0713.748.764",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Foreign entity"
+                }
+            ],
+            "valid_from_date_time": "2017-11-07T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "RSA Luxembourg S.A.",
+            "valid_from_date": "2018-07-12T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 12 - Liability for ships"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 13 - General liability"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 16 - Miscellaneous financial loss"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 1a - Accident"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 4 - Railway rolling stock"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 6 - Ships"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 7 - Goods in transit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 8 - Fire and natural forces"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 9 - Other damage to property"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2018-11-08T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 12 - Liability for ships"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 13 - General liability"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 16 - Miscellaneous financial loss"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 17 - Legal expenses"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 1a - Accident"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 2 - Sickness"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 3 - Land vehicles"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 4 - Railway rolling stock"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 5 - Aircraft"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 6 - Ships"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 7 - Goods in transit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 8 - Fire and natural forces"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 9 - Other damage to property"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-11-08T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2018-11-08T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 12 - Liability for ships"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 13 - General liability"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 16 - Miscellaneous financial loss"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 17 - Legal expenses"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 1a - Accident"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 3 - Land vehicles"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 4 - Railway rolling stock"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 6 - Ships"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 7 - Goods in transit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 8 - Fire and natural forces"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 9 - Other damage to property"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-07-12T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Belgian branches of insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Branches of EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2018-07-12T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "RSA Luxembourg S.A."
+}

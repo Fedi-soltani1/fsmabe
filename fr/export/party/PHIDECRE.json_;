@@ -1,0 +1,88 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Doische",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "91 b 1",
+            "phone": "",
+            "street": "Rue Haute (GOC)",
+            "valid_from_date": "2013-12-24T00:00:00",
+            "valid_to_date": "2025-06-24T00:00:00",
+            "zip": "5680"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "109927",
+    "country_head_office": "BE",
+    "enterprise_number": "0843.329.579",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2012-01-31T00:00:00",
+            "valid_to_date_time": "2025-06-24T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "PHIDECRE",
+            "valid_from_date": "2012-01-31T00:00:00",
+            "valid_to_date": "2025-06-24T00:00:00"
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Broker Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Brokers"
+                }
+            ],
+            "valid_from_date_time": "2017-03-06T00:00:00",
+            "valid_to_date_time": "2024-12-31T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Broker Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Brokers"
+                }
+            ],
+            "valid_from_date_time": "2017-03-06T00:00:00",
+            "valid_to_date_time": "2024-12-31T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "2012-03-20T00:00:00",
+            "valid_to_date_time": "2024-12-31T00:00:00"
+        }
+    ],
+    "title": "PHIDECRE"
+}

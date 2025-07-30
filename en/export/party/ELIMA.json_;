@@ -1,0 +1,98 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Gembloux",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "81",
+            "phone": "",
+            "street": "Avenue des Combattants",
+            "valid_from_date": "2007-03-12T00:00:00",
+            "valid_to_date": null,
+            "zip": "5030"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0887.905.732",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-10-02T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2007-03-12T00:00:00",
+            "valid_to_date_time": "2023-10-01T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "ELIMA",
+            "valid_from_date": "2007-03-12T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: ILP - Investment Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-07-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-07-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: OLP - Other Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-07-22T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2025-07-22T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "ELIMA"
+}

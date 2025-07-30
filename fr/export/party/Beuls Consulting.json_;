@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Zutendaal",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "10",
+            "phone": "",
+            "street": "Kliebosstraat",
+            "valid_from_date": "2013-04-18T00:00:00",
+            "valid_to_date": null,
+            "zip": "3690"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "115047",
+    "country_head_office": "BE",
+    "enterprise_number": "0526.892.914",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-11-29T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2013-04-18T00:00:00",
+            "valid_to_date_time": "2023-11-28T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Beuls Consulting",
+            "valid_from_date": "2013-04-18T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2016-03-29T00:00:00",
+            "valid_to_date_time": "2025-07-14T00:00:00"
+        }
+    ],
+    "title": "Beuls Consulting"
+}

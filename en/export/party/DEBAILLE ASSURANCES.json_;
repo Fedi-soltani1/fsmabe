@@ -1,0 +1,82 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Ch\u00e2telet",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "308",
+            "phone": "",
+            "street": "Rue de Gilly",
+            "valid_from_date": "2017-09-11T00:00:00",
+            "valid_to_date": null,
+            "zip": "6200"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "116369",
+    "country_head_office": "BE",
+    "enterprise_number": "0680.889.124",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-11-02T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2017-09-11T00:00:00",
+            "valid_to_date_time": "2023-11-01T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "DEBAILLE ASSURANCES",
+            "valid_from_date": "2017-09-11T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2018-08-14T00:00:00",
+            "valid_to_date_time": "2025-07-14T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-10-17T00:00:00",
+            "valid_to_date_time": "2025-07-14T00:00:00"
+        }
+    ],
+    "title": "DEBAILLE ASSURANCES"
+}

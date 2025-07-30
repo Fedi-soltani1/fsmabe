@@ -1,0 +1,125 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Driebergen-Rijsenburg",
+            "country_code": "NL",
+            "email": "",
+            "house_number": "10 b a",
+            "phone": "",
+            "street": "Hoofdstraat",
+            "valid_from_date": "2022-02-14T00:00:00",
+            "valid_to_date": null,
+            "zip": "3972 LA"
+        },
+        {
+            "building": "",
+            "city": "Brussel",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "31 b 5",
+            "phone": "",
+            "street": "Boudewijnlaan",
+            "valid_from_date": "2024-01-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "1000"
+        }
+    ],
+    "bank_code": "TRIOBEBB",
+    "cbfa_code": "050014",
+    "country_head_office": "NL",
+    "enterprise_number": "0450.507.887",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Foreign entity"
+                }
+            ],
+            "valid_from_date_time": "1993-03-08T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Triodos Bank SA",
+            "valid_from_date": "1993-07-27T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [
+        {
+            "party_signal": [
+                {
+                    "name": "Cloned"
+                }
+            ],
+            "text": "<br><a href=\"https://www.fsma.be/en/warnings/scammers-pass-themselves-banks-beware-fraud-0\">More information</a>"
+        }
+    ],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Notification of Branch by\u00a0EEA Lender Mortgages\u00a0\u00a0"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Branches of\u00a0EEA Lenders in Mortgages\u00a0\u00a0"
+                }
+            ],
+            "valid_from_date_time": "2017-07-07T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1993-07-27T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 3 - Dealing on own account"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1993-07-27T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1993-07-27T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "A. Branches in Belgium of credit institutions governed by the law of another EEA State and/or tied agents established in Belgium (Article 1, \u00a7 3, first paragraph, 1\u00b0 of the Law of 25 April 2014 on the legal status and supervision of credit institutions)"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Branches by EEA credit institutions"
+                }
+            ],
+            "valid_from_date_time": "1993-07-27T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Triodos Bank SA"
+}

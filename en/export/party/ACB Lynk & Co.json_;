@@ -1,0 +1,58 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Zaventem",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "430",
+            "phone": "",
+            "street": "Leuvensesteenweg",
+            "valid_from_date": "2024-12-05T00:00:00",
+            "valid_to_date": null,
+            "zip": "1930"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "1016.999.666",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2024-12-05T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "ACB Lynk & Co",
+            "valid_from_date": "2024-12-05T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2025-07-22T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "ACB Lynk & Co"
+}

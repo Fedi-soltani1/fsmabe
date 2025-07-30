@@ -1,0 +1,70 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Brugge",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "49",
+            "phone": "",
+            "street": "Vlamingstraat",
+            "valid_from_date": "2006-04-01T00:00:00",
+            "valid_to_date": "2025-06-30T00:00:00",
+            "zip": "8000"
+        },
+        {
+            "building": "",
+            "city": "Brugge",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "46",
+            "phone": "",
+            "street": "'t Groeneveld",
+            "valid_from_date": "2025-07-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "8200"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "049927",
+    "country_head_office": "BE",
+    "enterprise_number": "0478.406.473",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2002-09-16T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "JAN VERDUYN & C\u00b0",
+            "valid_from_date": "2002-09-16T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2023-05-16T00:00:00",
+            "valid_to_date_time": "2024-11-19T00:00:00"
+        }
+    ],
+    "title": "JAN VERDUYN & C\u00b0"
+}

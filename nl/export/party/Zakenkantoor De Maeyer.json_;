@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Temse",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "50",
+            "phone": "",
+            "street": "Kouterstraat",
+            "valid_from_date": "2016-10-21T00:00:00",
+            "valid_to_date": null,
+            "zip": "9140"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "110891",
+    "country_head_office": "BE",
+    "enterprise_number": "0848.730.204",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-11-30T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2012-09-14T00:00:00",
+            "valid_to_date_time": "2023-11-29T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Zakenkantoor De Maeyer",
+            "valid_from_date": "2012-09-14T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Agents"
+                }
+            ],
+            "valid_from_date_time": "2012-11-08T00:00:00",
+            "valid_to_date_time": "2025-07-11T00:00:00"
+        }
+    ],
+    "title": "Zakenkantoor De Maeyer"
+}

@@ -1,0 +1,155 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Avelgem",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "68",
+            "phone": "",
+            "street": "Huttegemstraat",
+            "valid_from_date": "2020-02-10T00:00:00",
+            "valid_to_date": "2025-07-01T00:00:00",
+            "zip": "8580"
+        },
+        {
+            "building": "",
+            "city": "Wevelgem",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "16",
+            "phone": "",
+            "street": "Lommergoed",
+            "valid_from_date": "2025-07-02T00:00:00",
+            "valid_to_date": null,
+            "zip": "8560"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0743.453.827",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company governed by public law"
+                }
+            ],
+            "valid_from_date_time": "2025-07-02T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2020-02-10T00:00:00",
+            "valid_to_date_time": "2025-07-01T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Adastra Finance",
+            "valid_from_date": "2020-02-10T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2020-06-09T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2020-06-09T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Banking and investment agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian agents in Banking and investment services"
+                }
+            ],
+            "valid_from_date_time": "2020-06-09T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: ILP - Investment Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-06-09T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-06-09T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: OLP - Other Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-06-09T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2020-06-09T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Adastra Finance"
+}

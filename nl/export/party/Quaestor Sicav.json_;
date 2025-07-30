@@ -1,0 +1,70 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "44",
+            "phone": "",
+            "street": "Rue de l'Industrie",
+            "valid_from_date": "2020-03-12T00:00:00",
+            "valid_to_date": "2025-04-24T00:00:00",
+            "zip": "1040"
+        },
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "18",
+            "phone": "",
+            "street": "Rue Guimard",
+            "valid_from_date": "2025-04-25T00:00:00",
+            "valid_to_date": null,
+            "zip": "1040"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "03934",
+    "country_head_office": "BE",
+    "enterprise_number": "0750.996.170",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2020-07-24T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Quaestor Sicav",
+            "valid_from_date": "2020-03-12T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "I.2. Investment companies"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian UCITS"
+                }
+            ],
+            "valid_from_date_time": "2020-09-16T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Quaestor Sicav"
+}

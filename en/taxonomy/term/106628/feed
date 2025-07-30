@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.fsma.be/en">
+  <channel>
+    <title>Memorandum of response</title>
+    <link>http://www.fsma.be/en</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>RECTICEL</title>
+  <link>http://www.fsma.be/en/prospectus/recticel-4</link>
+  <description>
+RECTICEL&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2021-10-28T00:00:00+02:00" title="Thursday, October 28, 2021 - 00:00" class="datetime"&gt;Thu, 10/28/2021 - 00:00&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/recticel-4" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about RECTICEL&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2021-10-28T00:00:00Z" class="datetime"&gt;Thu, 10/28/2021 - 02:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2021/2021-%2528RECTICEL%2529-EN-OPA20210257-A14-B01-C01-NP-CD28_10.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2021-(RECTICEL)-EN-OPA20210257-A14-B01-C01-NP-CD28_10.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106628" hreflang="en"&gt;Memorandum of response&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029446"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;GREINER&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029447"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;RECTICEL&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2021-10-28T00:00:00Z" class="datetime"&gt;Thu, 10/28/2021 - 02:00&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 27 Oct 2021 22:00:00 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">177406 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>ORANGE BELGIUM</title>
+  <link>http://www.fsma.be/en/prospectus/orange-belgium-3</link>
+  <description>
+ORANGE BELGIUM&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2021-04-06T08:25:42+02:00" title="Tuesday, April 6, 2021 - 08:25" class="datetime"&gt;Tue, 04/06/2021 - 08:25&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/orange-belgium-3" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about ORANGE BELGIUM&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2021-04-06T08:25:42Z" class="datetime"&gt;Tue, 04/06/2021 - 10:25&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2021/2021-%2528ORANGE%2529-FR-OPA20201156-A14-B01-C01-NP-CD06_04.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2021-(ORANGE)-FR-OPA20201156-A14-B01-C01-NP-CD06_04.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106628" hreflang="en"&gt;Memorandum of response&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029496"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;ORANGE SA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029497"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;ORANGE BELGIUM&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2021-04-06T08:25:42Z" class="datetime"&gt;Tue, 04/06/2021 - 10:25&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 06 Apr 2021 06:25:42 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">393986 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>BHF KLEINWORT BENSON</title>
+  <link>http://www.fsma.be/en/prospectus/bhf-kleinwort-benson-6</link>
+  <description>
+BHF KLEINWORT BENSON&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2016-01-26T11:53:10+01:00" title="Tuesday, January 26, 2016 - 11:53" class="datetime"&gt;Tue, 01/26/2016 - 11:53&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/bhf-kleinwort-benson-6" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about BHF KLEINWORT BENSON&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2016-01-26T11:53:10Z" class="datetime"&gt;Tue, 01/26/2016 - 12:53&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2016/2016-%25282950%2529-EN-OPA20155050-A14-B01-C01-NP-CD26_01.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2016-(2950)-EN-OPA20155050-A14-B01-C01-NP-CD26_01.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106628" hreflang="en"&gt;Memorandum of response&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029576"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;BHF KLEINWORT BENSON&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029577"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;ODDO &amp;amp; CIE&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2016-01-26T11:53:10Z" class="datetime"&gt;Tue, 01/26/2016 - 12:53&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 26 Jan 2016 10:53:10 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">166794 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>ROSIER</title>
+  <link>http://www.fsma.be/en/prospectus/rosier-0</link>
+  <description>
+ROSIER&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2013-10-24T16:50:13+02:00" title="Thursday, October 24, 2013 - 16:50" class="datetime"&gt;Thu, 10/24/2013 - 16:50&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/rosier-0" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about ROSIER&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2013-10-24T16:50:13Z" class="datetime"&gt;Thu, 10/24/2013 - 18:50&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-authority field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Authority&lt;/div&gt;
+              &lt;div class="field__item"&gt;Allen &amp;amp; Overy LLP&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2013/2013-%2528749%2529-FR-OPA20132143-A16-B01-C11-NP-CD24_10.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2013-(749)-FR-OPA20132143-A16-B01-C11-NP-CD24_10.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106637" hreflang="en"&gt;Offre publique d'achat obligatoire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106628" hreflang="en"&gt;Memorandum of response&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029758"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;BOREALIS&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029759"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;ROSIER&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2013-10-24T16:50:13Z" class="datetime"&gt;Thu, 10/24/2013 - 18:50&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 24 Oct 2013 14:50:13 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">166616 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>TELENET GROUP HOLDING</title>
+  <link>http://www.fsma.be/en/prospectus/telenet-group-holding-1</link>
+  <description>
+TELENET GROUP HOLDING&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2012-12-14T08:25:06+01:00" title="Friday, December 14, 2012 - 08:25" class="datetime"&gt;Fri, 12/14/2012 - 08:25&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/telenet-group-holding-1" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about TELENET GROUP HOLDING&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2012-12-14T08:25:06Z" class="datetime"&gt;Fri, 12/14/2012 - 09:25&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-authority field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Authority&lt;/div&gt;
+              &lt;div class="field__item"&gt;Freshfields Bruckhaus Deringer&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2012/2012-%2528981%2529-NL-OPA20121982-A14-B01-C01-NP-CD14_12.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2012-(981)-NL-OPA20121982-A14-B01-C01-NP-CD14_12.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106628" hreflang="en"&gt;Memorandum of response&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029544"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;TELENET GROUP HOLDING&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029545"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;Binan Investments&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2012-12-14T08:25:06Z" class="datetime"&gt;Fri, 12/14/2012 - 09:25&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 14 Dec 2012 07:25:06 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">166667 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>OMEGA PHARMA</title>
+  <link>http://www.fsma.be/en/prospectus/omega-pharma-1</link>
+  <description>
+OMEGA PHARMA&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2011-11-02T10:52:33+01:00" title="Wednesday, November 2, 2011 - 10:52" class="datetime"&gt;Wed, 11/02/2011 - 10:52&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/omega-pharma-1" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about OMEGA PHARMA&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2011-11-02T10:52:33Z" class="datetime"&gt;Wed, 11/02/2011 - 11:52&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-authority field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Authority&lt;/div&gt;
+              &lt;div class="field__item"&gt;Linklaters LLP&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2011/2011-%2528865%2529-NL-OPA20111487-A14-B01-05-C01-NP-CD02_11.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2011-(865)-NL-OPA20111487-A14-B01-05-C01-NP-CD02_11.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106646" hreflang="en"&gt;Droits de souscriptions&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106628" hreflang="en"&gt;Memorandum of response&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029566"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;Couckinvest NV&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029567"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;OMEGA PHARMA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2011-11-02T10:52:33Z" class="datetime"&gt;Wed, 11/02/2011 - 11:52&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 02 Nov 2011 09:52:33 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">166768 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>Antwerps Beroepskrediet (ABK)</title>
+  <link>http://www.fsma.be/en/prospectus/antwerps-beroepskrediet-abk-4</link>
+  <description>
+Antwerps Beroepskrediet (ABK)&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2011-03-22T09:57:00+01:00" title="Tuesday, March 22, 2011 - 09:57" class="datetime"&gt;Tue, 03/22/2011 - 09:57&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/antwerps-beroepskrediet-abk-4" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about Antwerps Beroepskrediet (ABK)&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2011-03-22T09:57:00Z" class="datetime"&gt;Tue, 03/22/2011 - 10:57&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-authority field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Authority&lt;/div&gt;
+              &lt;div class="field__item"&gt;KBC Securities NV&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2011/2011-%2528ABK%2529-NL-OPA20110120-A14-B01-C01-NP-CD22_03_%252802%2529.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2011-(ABK)-NL-OPA20110120-A14-B01-C01-NP-CD22_03_(02).pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106628" hreflang="en"&gt;Memorandum of response&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029832"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;Antwerps Beroepskrediet (ABK)&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029833"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;Bank J. Van Breda &amp;amp; C°&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2011-03-22T09:57:00Z" class="datetime"&gt;Tue, 03/22/2011 - 10:57&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 22 Mar 2011 08:57:00 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">166713 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>Compagnie Nationale à Portefeuille</title>
+  <link>http://www.fsma.be/en/prospectus/compagnie-nationale-portefeuille-0</link>
+  <description>
+Compagnie Nationale à Portefeuille&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2011-03-14T08:50:47+01:00" title="Monday, March 14, 2011 - 08:50" class="datetime"&gt;Mon, 03/14/2011 - 08:50&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/compagnie-nationale-portefeuille-0" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about Compagnie Nationale à Portefeuille&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2011-03-14T08:50:47Z" class="datetime"&gt;Mon, 03/14/2011 - 09:50&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-authority field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Authority&lt;/div&gt;
+              &lt;div class="field__item"&gt;Willkie Farr &amp;amp; Gallagher&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2011/2011-%2528273%2529-FR-OPA20110315-A14-B01-C01-NP-CD14_03.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2011-(273)-FR-OPA20110315-A14-B01-C01-NP-CD14_03.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106628" hreflang="en"&gt;Memorandum of response&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029622"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;FINGEN S.A.&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029623"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;Compagnie Nationale à Portefeuille&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2011-03-14T08:50:47Z" class="datetime"&gt;Mon, 03/14/2011 - 09:50&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Mar 2011 07:50:47 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">166617 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>Unibra</title>
+  <link>http://www.fsma.be/en/prospectus/unibra-1</link>
+  <description>
+Unibra&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2011-02-02T10:07:10+01:00" title="Wednesday, February 2, 2011 - 10:07" class="datetime"&gt;Wed, 02/02/2011 - 10:07&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/unibra-1" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about Unibra&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2011-02-02T10:07:10Z" class="datetime"&gt;Wed, 02/02/2011 - 11:07&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2011/2011-%2528408%2529-FR-OPA20101199-A18-B01-C01-NP-CD02_02.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2011-(408)-FR-OPA20101199-A18-B01-C01-NP-CD02_02.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106639" hreflang="en"&gt;Offre publique de reprise&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106628" hreflang="en"&gt;Memorandum of response&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029508"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;Red House SA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029509"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unibra&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2011-02-02T10:07:10Z" class="datetime"&gt;Wed, 02/02/2011 - 11:07&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 02 Feb 2011 09:07:10 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">166717 at http://www.fsma.be</guid>
+    </item>
+
+  </channel>
+</rss>

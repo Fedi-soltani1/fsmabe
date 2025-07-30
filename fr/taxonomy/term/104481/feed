@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.fsma.be/fr">
+  <channel>
+    <title>Investisseurs</title>
+    <link>http://www.fsma.be/fr</link>
+    <description/>
+    <language>fr</language>
+    
+    <item>
+  <title>Jonge beleggers op de beurs</title>
+  <link>http://www.fsma.be/nl/jonge-beleggers-op-de-beurs</link>
+  <description>
+Les jeunes investisseurs en bourse&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;Heidib&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2022-03-14T17:19:29+01:00" title="Lundi 14 mars 2022 - 17:19" class="datetime"&gt;Lundi 14/03/2022 - 17:19&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/fr/les-jeunes-investisseurs-en-bourse" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Lire plus&lt;span class="visually-hidden"&gt; sur Les jeunes investisseurs en bourse&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+  &lt;div class="text-content text-content--ct-body"&gt;
+                            &lt;div class="table-responsive"&gt;&lt;table&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Sujet&lt;/th&gt;
+			&lt;td&gt;Les jeunes investisseurs en bourse&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Date&lt;/th&gt;
+			&lt;td&gt;21.03.2022&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Heure&lt;/th&gt;
+			&lt;td&gt;10:30&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Orateur&lt;/th&gt;
+			&lt;td&gt;Jean-Paul Servais&lt;span&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;et des membres de l’équipe &lt;em&gt;data analytics&lt;/em&gt; de la FSMA&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Lieu&lt;/th&gt;
+			&lt;td&gt;Webinar&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a class="btn"&gt;Les inscriptions sont clôturées&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-speaker field--type-string field--label-above meta-text meta-text--with-label meta-text--speaker"&gt;
+    &lt;div class="field__label"&gt;Orateur&lt;/div&gt;
+              &lt;div class="field__item"&gt;Jean-Paul Servais&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-public field--type-boolean field--label-above meta-text meta-text--with-label meta-text--public"&gt;
+    &lt;div class="field__label"&gt;Ouvert au public&lt;/div&gt;
+              &lt;div class="field__item"&gt;Oui&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-target-group field--type-entity-reference field--label-above meta-text meta-text--with-label meta-text--target-group"&gt;
+    &lt;div class="field__label"&gt;Groupe cible&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/fr/taxonomy/term/104481" hreflang="fr"&gt;Investisseurs&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-location-simple field--type-string field--label-above meta-text meta-text--with-label meta-text--location"&gt;
+    &lt;div class="field__label"&gt;Adresse&lt;/div&gt;
+              &lt;div class="field__item"&gt;En ligne&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-event-theme field--type-string field--label-above meta-text meta-text--with-label meta-text--event-theme"&gt;
+    &lt;div class="field__label"&gt;Thème&lt;/div&gt;
+              &lt;div class="field__item"&gt;Investissements&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-daterange field--type-daterange field--label-above meta-text meta-text--with-label meta-text--date"&gt;
+    &lt;div class="field__label"&gt;Date&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2022-03-21T12:00:00Z" class="datetime"&gt;Lundi 21/03/2022 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Mar 2022 16:17:22 +0000</pubDate>
+    <dc:creator>Heidib</dc:creator>
+    <guid isPermaLink="false">184586 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>World Investor Week 2024</title>
+  <link>http://www.fsma.be/nl/world-investor-week-2024</link>
+  <description>
+World Investor Week 2024&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;Heidib&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2021-06-24T14:24:22+02:00" title="Jeudi 24 juin 2021 - 14:24" class="datetime"&gt;jeu 24/06/2021 - 14:24&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/fr/world-investor-week-2024" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Lire plus&lt;span class="visually-hidden"&gt; sur World Investor Week 2024&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+  &lt;div class="text-content text-content--ct-body"&gt;
+                            &lt;p&gt;&lt;span&gt;La huitième édition de la&amp;nbsp;&lt;/span&gt;&lt;em&gt;&lt;span&gt;World Investor Week&lt;/span&gt;&lt;/em&gt;&lt;span&gt;&amp;nbsp;aura lieu du 7 au 13 octobre 2024. La &lt;/span&gt;&lt;em&gt;&lt;span&gt;World Investor Week&lt;/span&gt;&lt;/em&gt;&lt;span&gt; est une initiative de l’OICV/IOSCO, l’organisation mondiale des contrôleurs financiers.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;L’objectif de cette semaine est de promouvoir l'éducation et la protection des investisseurs, en soulignant les diverses initiatives des différentes autorités de contrôle dans ces deux domaines fort importants.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span lang="EN-GB"&gt;Plus d’information&amp;nbsp;: &lt;/span&gt;&lt;a href="https://www.worldinvestorweek.org/"&gt;&lt;span lang="EN-GB"&gt;https://www.worldinvestorweek.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class="align-center media media--image"&gt;
+  
+  
+  &lt;picture loading="lazy" class="image orientation--landscape image--style--extra_large"&gt;
+    &lt;img loading="lazy" src="http://www.fsma.be/sites/default/files/styles/extra_large/public/images/world-investor-week.png?itok=bSTBtqlc" width="381" height="194" alt="World Investor Week : le logo de la World Investor Week" title="World Investor Week : le logo de la World Investor Week" class="image-style--extra-large"&gt;
+
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+  &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-speaker field--type-string field--label-above meta-text meta-text--with-label meta-text--speaker"&gt;
+    &lt;div class="field__label"&gt;Orateur&lt;/div&gt;
+              &lt;div class="field__item"&gt;Multiple speakers&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-training-institute field--type-string field--label-above meta-text meta-text--with-label meta-text--training-institute"&gt;
+    &lt;div class="field__label"&gt;Organisation&lt;/div&gt;
+              &lt;div class="field__item"&gt;IOSCO&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-public field--type-boolean field--label-above meta-text meta-text--with-label meta-text--public"&gt;
+    &lt;div class="field__label"&gt;Ouvert au public&lt;/div&gt;
+              &lt;div class="field__item"&gt;Oui&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-target-group field--type-entity-reference field--label-above meta-text meta-text--with-label meta-text--target-group"&gt;
+    &lt;div class="field__label"&gt;Groupe cible&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/fr/taxonomy/term/104481" hreflang="fr"&gt;Investisseurs&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-location-simple field--type-string field--label-above meta-text meta-text--with-label meta-text--location"&gt;
+    &lt;div class="field__label"&gt;Adresse&lt;/div&gt;
+              &lt;div class="field__item"&gt;En ligne&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-event-theme field--type-string field--label-above meta-text meta-text--with-label meta-text--event-theme"&gt;
+    &lt;div class="field__label"&gt;Thème&lt;/div&gt;
+              &lt;div class="field__item"&gt;Investissements&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-daterange field--type-daterange field--label-above meta-text meta-text--with-label meta-text--date"&gt;
+    &lt;div class="field__label"&gt;Date&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2024-10-07T12:00:00Z" class="datetime"&gt;Lundi 07/10/2024 - 12:00&lt;/time&gt;
+ - &lt;time datetime="2024-10-13T12:00:00Z" class="datetime"&gt;dim 13/10/2024 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Thu, 24 Jun 2021 12:22:15 +0000</pubDate>
+    <dc:creator>Heidib</dc:creator>
+    <guid isPermaLink="false">171681 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>Webinar - Retailbeleggers op de beurs</title>
+  <link>http://www.fsma.be/nl/webinar-retailbeleggers-op-de-beurs</link>
+  <description>
+Webinaire - Investisseurs de détail sur la bourse de Bruxelles&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;Heidib&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2021-05-15T10:09:32+02:00" title="Samedi 15 mai 2021 - 10:09" class="datetime"&gt;sam 15/05/2021 - 10:09&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/fr/webinaire-investisseurs-de-detail-sur-la-bourse-de-bruxelles-0" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Lire plus&lt;span class="visually-hidden"&gt; sur Webinaire - Investisseurs de détail sur la bourse de Bruxelles&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+  &lt;div class="text-content text-content--ct-body"&gt;
+                            &lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;A l’occasion de la publication de son rapport annuel 2020, la FSMA vous invite à participer à un webinaire. Lors de ce webinaire, Jean-Paul Servais, Président de la FSMA, présentera une nouvelle étude sur les investisseurs de détail sur la bourse de Bruxelles.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Ce webinaire aura lieu le &lt;strong&gt;&lt;span&gt;lundi 21 juin 2021 à 10 heures&lt;/span&gt;&lt;/strong&gt; via Teams.&lt;br&gt;
+Le webinaire sera donné en français et en néerlandais (en alternance). Vous pourrez poser vos questions dans le &lt;em&gt;&lt;span&gt;Chat&lt;/span&gt;&lt;/em&gt; lors du webinaire.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="btn" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MThiOWVmYjEtOWRmZi00ODEyLWE1NDUtNTUzZTFlYTc0MWJh%40thread.v2/0?context=%7b%22Tid%22%3a%2228a82de2-1579-4689-9e91-ada6d2c91cd4%22%2c%22Oid%22%3a%2297da8469-076b-42a4-b3f7-6bc4da78b572%22%2c%22IsBroadcastMeeting%22%3atrue%7d&amp;amp;btype=a&amp;amp;role=a"&gt;Cliquez ici pour suivre le webinaire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;a href="http://www.fsma.be/fr/node/130618"&gt;
+&lt;figure class="align-center media media--image"&gt;
+  
+  
+  &lt;picture loading="lazy" class="image orientation--landscape image--style--extra_large"&gt;
+    &lt;img loading="lazy" src="http://www.fsma.be/sites/default/files/styles/extra_large/public/images/WEBINAR_new_0.png?itok=Hb_ubi0E" width="861" height="560" alt="Webinar - 21.06.2021 - 10:00 Investisseurs de détail sur la bourse de Bruxelles" title="Webinar - 21.06.2021 - 10:00 Investisseurs de détail sur la bourse de Bruxelles" class="image-style--extra-large"&gt;
+
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/a&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-speaker field--type-string field--label-above meta-text meta-text--with-label meta-text--speaker"&gt;
+    &lt;div class="field__label"&gt;Orateur&lt;/div&gt;
+              &lt;div class="field__item"&gt;Jean-Paul Servais&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-public field--type-boolean field--label-above meta-text meta-text--with-label meta-text--public"&gt;
+    &lt;div class="field__label"&gt;Ouvert au public&lt;/div&gt;
+              &lt;div class="field__item"&gt;Oui&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-target-group field--type-entity-reference field--label-above meta-text meta-text--with-label meta-text--target-group"&gt;
+    &lt;div class="field__label"&gt;Groupe cible&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/fr/taxonomy/term/104481" hreflang="fr"&gt;Investisseurs&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-daterange field--type-daterange field--label-above meta-text meta-text--with-label meta-text--date"&gt;
+    &lt;div class="field__label"&gt;Date&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2021-06-21T12:00:00Z" class="datetime"&gt;Lundi 21/06/2021 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Sat, 15 May 2021 08:07:19 +0000</pubDate>
+    <dc:creator>Heidib</dc:creator>
+    <guid isPermaLink="false">117440 at http://www.fsma.be</guid>
+    </item>
+
+  </channel>
+</rss>

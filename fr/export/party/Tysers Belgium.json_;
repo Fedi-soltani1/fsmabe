@@ -1,0 +1,111 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Machelen (Brab.)",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "5",
+            "phone": "",
+            "street": "Pegasuslaan",
+            "valid_from_date": "2016-10-19T00:00:00",
+            "valid_to_date": null,
+            "zip": "1831"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "115846",
+    "country_head_office": "BE",
+    "enterprise_number": "0664.798.408",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2016-10-19T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Beluga Insurance Solutions",
+            "valid_from_date": "2016-10-19T00:00:00",
+            "valid_to_date": "2019-06-27T00:00:00"
+        },
+        {
+            "name": "Tysers Belgium",
+            "valid_from_date": "2019-06-28T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [],
+            "statute": [
+                {
+                    "name": "Intermediaries that have signed on to the moratorium"
+                }
+            ],
+            "valid_from_date_time": "2025-07-17T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2019-08-29T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Reinsurance broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Reinsurance brokers"
+                }
+            ],
+            "valid_from_date_time": "2019-08-29T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2019-03-12T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "2019-03-12T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Tysers Belgium"
+}

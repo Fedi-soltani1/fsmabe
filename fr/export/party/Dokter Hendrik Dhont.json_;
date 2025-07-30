@@ -1,0 +1,76 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Kapellen",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "",
+            "phone": "",
+            "street": "Franselei 6",
+            "valid_from_date": "2019-05-13T00:00:00",
+            "valid_to_date": null,
+            "zip": "2950"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0865.665.612",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2025-06-23T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2018-11-01T00:00:00",
+            "valid_to_date_time": "2025-06-22T00:00:00"
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Civil society in the form of a private limited liability company"
+                }
+            ],
+            "valid_from_date_time": "2004-06-03T00:00:00",
+            "valid_to_date_time": "2018-10-31T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Dokter Hendrik Dhont",
+            "valid_from_date": "2019-05-13T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Register of legal persons registered as qualified investors and as institutional or professional investors"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Qualified, institutional or professional investors"
+                }
+            ],
+            "valid_from_date_time": "2019-05-13T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Dokter Hendrik Dhont"
+}

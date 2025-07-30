@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Brugge",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "447",
+            "phone": "",
+            "street": "Baron Ruzettelaan",
+            "valid_from_date": "2005-11-30T00:00:00",
+            "valid_to_date": "2025-06-05T00:00:00",
+            "zip": "8310"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "066131",
+    "country_head_office": "BE",
+    "enterprise_number": "0877.598.788",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2020-11-30T00:00:00",
+            "valid_to_date_time": "2025-06-05T00:00:00"
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2005-11-30T00:00:00",
+            "valid_to_date_time": "2020-11-29T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Zakenkantoor Marc Antheunis & Partners",
+            "valid_from_date": "2005-11-30T00:00:00",
+            "valid_to_date": "2025-06-05T00:00:00"
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2022-04-12T00:00:00",
+            "valid_to_date_time": "2025-07-15T00:00:00"
+        }
+    ],
+    "title": "Zakenkantoor Marc Antheunis & Partners"
+}

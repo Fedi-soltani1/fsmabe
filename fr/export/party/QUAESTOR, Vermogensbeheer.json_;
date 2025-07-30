@@ -1,0 +1,139 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Roeselare",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "406",
+            "phone": "",
+            "street": "Meensesteenweg",
+            "valid_from_date": "2023-05-15T00:00:00",
+            "valid_to_date": null,
+            "zip": "8800"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "060653",
+    "country_head_office": "BE",
+    "enterprise_number": "0472.290.525",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2000-07-05T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "QUAESTOR, Vermogensbeheer",
+            "valid_from_date": "2000-09-13T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: a - AIFM portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2023-08-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: b - AIFM risk management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2023-08-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: c - AIFM administration"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2023-08-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: d - AIFM marketing"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2023-08-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: e - Activities related to AIFM assets"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2023-08-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: a (MiFID) - Portfolio management (MiFID)"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2023-08-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: b (MiFID) - Investment advice (MiFID)"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2023-08-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: d (MiFID) - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2023-08-01T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Managers of alternative investment funds - Non-public"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian AIF managers"
+                }
+            ],
+            "valid_from_date_time": "2023-08-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "QUAESTOR, Vermogensbeheer"
+}

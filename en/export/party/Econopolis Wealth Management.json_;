@@ -1,0 +1,119 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Wilrijk",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "20/12",
+            "phone": "",
+            "street": "Sneeuwbeslaan",
+            "valid_from_date": "2016-05-09T00:00:00",
+            "valid_to_date": null,
+            "zip": "2610"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0812.127.055",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2009-06-03T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Econowealth",
+            "valid_from_date": "2010-07-13T00:00:00",
+            "valid_to_date": "2011-05-09T00:00:00"
+        },
+        {
+            "name": "Econopolis Wealth Management",
+            "valid_from_date": "2011-05-10T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Financial institutions that have signed on to the moratorium / Not making use of the opt-out"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Financial institutions that have signed on to the moratorium without opt out"
+                }
+            ],
+            "valid_from_date_time": "2011-08-01T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-04-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-04-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-04-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 3 - Financial engineering"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-04-24T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "b. Portfolio management and investment advice companies"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian portfolio management and investment advisory firms"
+                }
+            ],
+            "valid_from_date_time": "2010-07-13T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Econopolis Wealth Management"
+}

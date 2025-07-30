@@ -1,0 +1,66 @@
+{
+    "address": [],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0695.461.294",
+    "legal_form_entity": [],
+    "legal_names": [
+        {
+            "name": "Gomes, Lydia",
+            "valid_from_date": "2023-08-08T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: ILP - Investment Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-04-03T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-04-03T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: OLP - Other Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-04-03T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "2024-04-03T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Gomes, Lydia"
+}

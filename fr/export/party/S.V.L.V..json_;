@@ -1,0 +1,112 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Uccle",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "1163",
+            "phone": "",
+            "street": "Chauss\u00e9e de Waterloo",
+            "valid_from_date": "2005-09-01T00:00:00",
+            "valid_to_date": "2025-06-20T00:00:00",
+            "zip": "1180"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "044893",
+    "country_head_office": "BE",
+    "enterprise_number": "0467.206.933",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2024-09-02T00:00:00",
+            "valid_to_date_time": "2025-06-20T00:00:00"
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "1999-10-27T00:00:00",
+            "valid_to_date_time": "2024-09-01T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "S.V.L.V.",
+            "valid_from_date": "1999-10-27T00:00:00",
+            "valid_to_date": "2025-06-20T00:00:00"
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-01-03T00:00:00",
+            "valid_to_date_time": "2025-06-05T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-01-03T00:00:00",
+            "valid_to_date_time": "2025-06-05T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Banking and investment agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian agents in Banking and investment services"
+                }
+            ],
+            "valid_from_date_time": "2006-12-12T00:00:00",
+            "valid_to_date_time": "2025-06-05T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "1999-11-26T00:00:00",
+            "valid_to_date_time": "2025-06-05T00:00:00"
+        }
+    ],
+    "title": "S.V.L.V."
+}

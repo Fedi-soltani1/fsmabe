@@ -1,0 +1,58 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Charleroi",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "14",
+            "phone": "",
+            "street": "Chauss\u00e9e de Ch\u00e2telet",
+            "valid_from_date": "2022-10-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "6060"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0755.991.076",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2020-10-12T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "KOALAM BEDDING",
+            "valid_from_date": "2020-10-12T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2021-04-06T00:00:00",
+            "valid_to_date_time": "2025-07-11T00:00:00"
+        }
+    ],
+    "title": "KOALAM BEDDING"
+}

@@ -1,0 +1,76 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Bilzen",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "63",
+            "phone": "",
+            "street": "Amelsdorp",
+            "valid_from_date": "2025-07-17T00:00:00",
+            "valid_to_date": null,
+            "zip": "3740"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0632.898.076",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-12-20T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2018-11-01T00:00:00",
+            "valid_to_date_time": "2023-12-19T00:00:00"
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Civil society in the form of a private limited liability company"
+                }
+            ],
+            "valid_from_date_time": "2015-06-30T00:00:00",
+            "valid_to_date_time": "2018-10-31T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Koen Beckers",
+            "valid_from_date": "2025-07-17T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Register of legal persons registered as qualified investors and as institutional or professional investors"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Qualified, institutional or professional investors"
+                }
+            ],
+            "valid_from_date_time": "2025-07-17T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Koen Beckers"
+}

@@ -1,0 +1,335 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Etterbeek",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "30 b B",
+            "phone": "",
+            "street": "Cours saint-Michel",
+            "valid_from_date": "2022-07-01T00:00:00",
+            "valid_to_date": "2024-10-09T00:00:00",
+            "zip": "1040"
+        },
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "12",
+            "phone": "",
+            "street": "Rue de l'\u00c9tuve",
+            "valid_from_date": "2024-10-10T00:00:00",
+            "valid_to_date": null,
+            "zip": "1000"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "124",
+    "country_head_office": "BE",
+    "enterprise_number": "0403.274.332",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private mutual insurance fund"
+                }
+            ],
+            "valid_from_date_time": "2025-04-01T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1935-01-01T00:00:00",
+            "valid_to_date_time": "2025-03-31T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "La Garantie Nationale, Compagnie d'Assurances",
+            "valid_from_date": "1988-01-01T00:00:00",
+            "valid_to_date": "1993-12-31T00:00:00"
+        },
+        {
+            "name": "Nationale Suisse Assurances",
+            "valid_from_date": "1994-01-01T00:00:00",
+            "valid_to_date": "2015-11-12T00:00:00"
+        },
+        {
+            "name": "Alpha Insurance",
+            "valid_from_date": "2015-11-13T00:00:00",
+            "valid_to_date": "2024-07-30T00:00:00"
+        },
+        {
+            "name": "Beta Groupco",
+            "valid_from_date": "2024-07-31T00:00:00",
+            "valid_to_date": "2025-03-31T00:00:00"
+        },
+        {
+            "name": "F\u00e9d\u00e9rale Versicherung ((ex-Beta Groupco AG)",
+            "valid_from_date": "2025-04-01T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Financial institutions that have signed on to the moratorium / Not making use of the opt-out"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Financial institutions that have signed on to the moratorium without opt out"
+                }
+            ],
+            "valid_from_date_time": "2011-08-01T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 1b - Industrial injuries"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-07-15T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 11 - Aircraft liability"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2022-05-17T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 12 - Liability for ships"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2022-05-17T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 26 - Capital redemption operations"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2009-01-20T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 4 - Railway rolling stock"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2007-01-20T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 5 - Aircraft"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2007-01-20T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 6 - Ships"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2007-01-20T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2005-05-18T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 21 - Non linked life"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1993-12-31T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 22 - Marriage, birth"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1993-12-31T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 23 - Linked life"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1993-12-31T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 2 - Sickness"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1993-12-31T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 7 - Goods in transit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1993-12-31T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 10a - Motor vehicle liability"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1991-05-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 10b - Carrier's liability"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1991-05-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 13 - General liability"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1991-05-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 16 - Miscellaneous financial loss"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1991-05-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 17 - Legal expenses"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1991-05-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 1a - Accident"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1991-05-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 3 - Land vehicles"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1991-05-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 8 - Fire and natural forces"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1991-05-24T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 9 - Other damage to property"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1991-05-24T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Authorized insurance undertakings"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian insurance companies"
+                }
+            ],
+            "valid_from_date_time": "1991-05-24T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "F\u00e9d\u00e9rale Versicherung ((ex-Beta Groupco AG)"
+}

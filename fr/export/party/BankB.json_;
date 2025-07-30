@@ -1,0 +1,78 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Waregem",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "33",
+            "phone": "",
+            "street": "Mannebeekstraat",
+            "valid_from_date": "1965-06-22T00:00:00",
+            "valid_to_date": null,
+            "zip": "8790"
+        }
+    ],
+    "bank_code": "CEKVBE81",
+    "cbfa_code": "050005",
+    "country_head_office": "BE",
+    "enterprise_number": "0400.040.965",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1956-02-04T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Centrale Kredietverlening, en abr\u00e9g\u00e9 : CKV",
+            "valid_from_date": "1977-01-11T00:00:00",
+            "valid_to_date": "2025-03-16T00:00:00"
+        },
+        {
+            "name": "BankB",
+            "valid_from_date": "2025-03-17T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Lender Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Lenders"
+                }
+            ],
+            "valid_from_date_time": "2017-05-30T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Lender Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Lenders"
+                }
+            ],
+            "valid_from_date_time": "2017-05-30T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "BankB"
+}

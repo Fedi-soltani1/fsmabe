@@ -1,0 +1,127 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Diegem",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "7B",
+            "phone": "",
+            "street": "Kouterveldstraat",
+            "valid_from_date": "1975-01-23T00:00:00",
+            "valid_to_date": null,
+            "zip": "1831"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0446.334.711",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2020-01-31T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Cooperative society with limited liability"
+                }
+            ],
+            "valid_from_date_time": "2018-11-01T00:00:00",
+            "valid_to_date_time": "2020-01-30T00:00:00"
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Civil society in the form of a limited liability CS"
+                }
+            ],
+            "valid_from_date_time": "1992-01-06T00:00:00",
+            "valid_to_date_time": "2018-10-31T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Ernst & Young R\u00e9viseurs d'Entreprises",
+            "valid_from_date": "1990-01-26T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "MOGAL Tim",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "Boschmans Christophe",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "Dupuis Sarah",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "Klaykens Joeri",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "Weymeersch Christel",
+            "valid_to_date": null
+        }
+    ],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "2. Authorised audit firms"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "By the FSMA authorised auditors"
+                }
+            ],
+            "valid_from_date_time": "2013-07-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Ernst & Young R\u00e9viseurs d'Entreprises"
+}

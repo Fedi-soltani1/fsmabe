@@ -1,0 +1,66 @@
+{
+    "address": [],
+    "bank_code": null,
+    "cbfa_code": "108740",
+    "country_head_office": "BE",
+    "enterprise_number": "0836.525.921",
+    "legal_form_entity": [],
+    "legal_names": [
+        {
+            "name": "Ekofo, Yannick",
+            "valid_from_date": "2011-05-25T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: ILP - Investment Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-10-31T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-10-31T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: OLP - Other Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-10-31T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2017-10-31T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Ekofo, Yannick"
+}

@@ -1,0 +1,154 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "56",
+            "phone": "",
+            "street": "Avenue des Arts",
+            "valid_from_date": "1975-07-09T00:00:00",
+            "valid_to_date": null,
+            "zip": "1000"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "418",
+    "country_head_office": "BE",
+    "enterprise_number": "0403.248.596",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1935-01-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Euler Cobac",
+            "valid_from_date": "1975-07-09T00:00:00",
+            "valid_to_date": "2003-04-30T00:00:00"
+        },
+        {
+            "name": "Euler Hermes Credit Insurance Belgium",
+            "valid_from_date": "2003-05-01T00:00:00",
+            "valid_to_date": "2012-01-01T00:00:00"
+        },
+        {
+            "name": "Euler Hermes Europe",
+            "valid_from_date": "2012-01-02T00:00:00",
+            "valid_to_date": "2014-10-31T00:00:00"
+        },
+        {
+            "name": "Euler Hermes",
+            "valid_from_date": "2014-11-01T00:00:00",
+            "valid_to_date": "2022-03-27T00:00:00"
+        },
+        {
+            "name": "Euler Hermes (Allianz Trade)",
+            "valid_from_date": "2022-03-28T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 16 - Miscellaneous financial loss"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2011-10-26T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 13 - General liability"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1976-01-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1976-01-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1976-01-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 7 - Goods in transit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1976-01-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 9 - Other damage to property"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1976-01-01T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Authorized insurance undertakings"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian insurance companies"
+                }
+            ],
+            "valid_from_date_time": "1976-01-01T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Authorized reinsurance undertakings"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian reinsurance companies"
+                }
+            ],
+            "valid_from_date_time": "1975-07-09T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Euler Hermes (Allianz Trade)"
+}

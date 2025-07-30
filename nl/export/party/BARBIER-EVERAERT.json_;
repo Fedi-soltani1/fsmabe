@@ -1,0 +1,58 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Diksmuide",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "3",
+            "phone": "",
+            "street": "Sint-Corneelstraat(BK)",
+            "valid_from_date": "2000-11-17T00:00:00",
+            "valid_to_date": null,
+            "zip": "8600"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "047185",
+    "country_head_office": "BE",
+    "enterprise_number": "0473.437.895",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "General partnership"
+                }
+            ],
+            "valid_from_date_time": "2000-11-17T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "BARBIER-EVERAERT",
+            "valid_from_date": "2000-11-17T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "2001-01-08T00:00:00",
+            "valid_to_date_time": "2025-07-15T00:00:00"
+        }
+    ],
+    "title": "BARBIER-EVERAERT"
+}

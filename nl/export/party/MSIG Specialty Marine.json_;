@@ -1,0 +1,109 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Schaerbeek",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "37",
+            "phone": "",
+            "street": "Boulevard du Roi AlbertII",
+            "valid_from_date": "2020-01-30T00:00:00",
+            "valid_to_date": null,
+            "zip": "1030"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0670.726.393",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2020-01-30T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Foreign entity"
+                }
+            ],
+            "valid_from_date_time": "2008-12-31T00:00:00",
+            "valid_to_date_time": "2020-01-29T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "MS Amlin Marine",
+            "valid_from_date": "2020-01-17T00:00:00",
+            "valid_to_date": "2025-06-30T00:00:00"
+        },
+        {
+            "name": "MSIG Specialty Marine",
+            "valid_from_date": "2025-07-01T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-01-30T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Underwriters"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mandated Underwriters"
+                }
+            ],
+            "valid_from_date_time": "2020-01-30T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-01-30T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Reinsurance agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Reinsurance agents"
+                }
+            ],
+            "valid_from_date_time": "2020-01-30T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "MSIG Specialty Marine"
+}

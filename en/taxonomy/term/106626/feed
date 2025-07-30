@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.fsma.be/en">
+  <channel>
+    <title>Prospectus</title>
+    <link>http://www.fsma.be/en</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>GREENYARD</title>
+  <link>http://www.fsma.be/en/prospectus/greenyard-2</link>
+  <description>
+GREENYARD&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-06-20T09:39:46+02:00" title="Friday, June 20, 2025 - 09:39" class="datetime"&gt;Fri, 06/20/2025 - 09:39&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/greenyard-2" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about GREENYARD&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2025-06-20T09:39:46Z" class="datetime"&gt;Fri, 06/20/2025 - 11:39&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2025/2025-%2528GREENYARD%2529-EN-OPA20250062-A14-B01-C01-NP-CD20_06.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2025-(GREENYARD)-EN-OPA20250062-A14-B01-C01-NP-CD20_06.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029606"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;GARDEN&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029607"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;GREENYARD&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2025-06-20T09:39:46Z" class="datetime"&gt;Fri, 06/20/2025 - 11:39&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 20 Jun 2025 07:39:46 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">507148 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>ROULARTA MEDIA GROUP</title>
+  <link>http://www.fsma.be/en/prospectus/roularta-media-group-1</link>
+  <description>
+ROULARTA MEDIA GROUP&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-05-19T14:29:17+02:00" title="Monday, May 19, 2025 - 14:29" class="datetime"&gt;Mon, 05/19/2025 - 14:29&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/roularta-media-group-1" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about ROULARTA MEDIA GROUP&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2025-05-19T14:29:17Z" class="datetime"&gt;Mon, 05/19/2025 - 16:29&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2025/2025-%2528ROULARTA%2520MEDIA%2520GROUP%2529-NL-OPA20250040-A14-B01-C01-NP-CD19_05.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2025-(ROULARTA MEDIA GROUP)-NL-OPA20250040-A14-B01-C01-NP-CD19_05.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029518"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;ROULARTA MEDIA GROUP&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029519"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;KOINON&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2025-05-19T14:29:17Z" class="datetime"&gt;Mon, 05/19/2025 - 16:29&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 19 May 2025 12:29:17 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">499877 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>SMARTPHOTO GROUP</title>
+  <link>http://www.fsma.be/en/prospectus/smartphoto-group-2</link>
+  <description>
+SMARTPHOTO GROUP&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-04-29T16:09:20+02:00" title="Tuesday, April 29, 2025 - 16:09" class="datetime"&gt;Tue, 04/29/2025 - 16:09&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/smartphoto-group-2" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about SMARTPHOTO GROUP&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2025-04-29T16:09:20Z" class="datetime"&gt;Tue, 04/29/2025 - 18:09&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2025/2025-%2528SMARTPHOTO%2520GROUP%2529-FR-NL-OPA20250035-A16-B01-C01-NP-CD29_04.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2025-(SMARTPHOTO GROUP)-FR-NL-OPA20250035-A16-B01-C01-NP-CD29_04.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106637" hreflang="en"&gt;Offre publique d'achat obligatoire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029740"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;SMARTPHOTO GROUP&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029741"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;ALYRICK&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2025-04-29T16:09:20Z" class="datetime"&gt;Tue, 04/29/2025 - 18:09&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 29 Apr 2025 14:09:20 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">497060 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>EXMAR</title>
+  <link>http://www.fsma.be/en/prospectus/exmar-6</link>
+  <description>
+EXMAR&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-02-11T15:52:26+01:00" title="Tuesday, February 11, 2025 - 15:52" class="datetime"&gt;Tue, 02/11/2025 - 15:52&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/exmar-6" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about EXMAR&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2025-02-11T15:52:26Z" class="datetime"&gt;Tue, 02/11/2025 - 16:52&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2025/2025-%2528EXMAR%2529-NL-OPA20240142-A14-B01-C01-NP-CD11_02.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2025-(EXMAR)-NL-OPA20240142-A14-B01-C01-NP-CD11_02.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029596"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;SAVEREX&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029597"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;EXMAR&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2025-02-11T15:52:26Z" class="datetime"&gt;Tue, 02/11/2025 - 16:52&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 11 Feb 2025 14:52:26 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">480494 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>SVK - SCHEERDERS VAN KERCHOVE'S VERENIGDE FABRIEKEN</title>
+  <link>http://www.fsma.be/en/prospectus/svk-scheerders-van-kerchoves-verenigde-fabrieken-2</link>
+  <description>
+SVK - SCHEERDERS VAN KERCHOVE'S VERENIGDE FABRIEKEN&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-11-12T09:41:38+01:00" title="Tuesday, November 12, 2024 - 09:41" class="datetime"&gt;Tue, 11/12/2024 - 09:41&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/svk-scheerders-van-kerchoves-verenigde-fabrieken-2" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about SVK - SCHEERDERS VAN KERCHOVE'S VERENIGDE FABRIEKEN&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2024-11-12T09:41:38Z" class="datetime"&gt;Tue, 11/12/2024 - 10:41&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2024/2024-%2528SVK%2529-NL-OPA20240112-A16-B01-C01-NP-CD12_11.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2024-(SVK)-NL-OPA20240112-A16-B01-C01-NP-CD12_11.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106637" hreflang="en"&gt;Offre publique d'achat obligatoire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029418"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;SVK - SCHEERDERS VAN KERCHOVE'S VERENIGDE FABRIEKEN&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029419"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;STONES&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2024-11-12T09:41:38Z" class="datetime"&gt;Tue, 11/12/2024 - 10:41&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 12 Nov 2024 08:41:38 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">459455 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>BANQUE DEGROOF PETERCAM</title>
+  <link>http://www.fsma.be/en/prospectus/banque-degroof-petercam-4</link>
+  <description>
+BANQUE DEGROOF PETERCAM&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-06-11T15:51:41+02:00" title="Tuesday, June 11, 2024 - 15:51" class="datetime"&gt;Tue, 06/11/2024 - 15:51&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/banque-degroof-petercam-4" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about BANQUE DEGROOF PETERCAM&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2024-06-11T15:51:41Z" class="datetime"&gt;Tue, 06/11/2024 - 17:51&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2024/2024-%2528BANQUE%2520DEGROOF%2520PETER%2529-FR-OPA20230271-A14-B01-C01-NP-CD11_06.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2024-(BANQUE DEGROOF PETER)-FR-OPA20230271-A14-B01-C01-NP-CD11_06.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029482"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;BANQUE DEGROOF PETERCAM&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029483"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;CA INDOSUEZ&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2024-06-11T15:51:41Z" class="datetime"&gt;Tue, 06/11/2024 - 17:51&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 11 Jun 2024 13:51:41 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">424868 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>EURONAV</title>
+  <link>http://www.fsma.be/en/prospectus/euronav-5</link>
+  <description>
+EURONAV&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-02-13T09:32:21+01:00" title="Tuesday, February 13, 2024 - 09:32" class="datetime"&gt;Tue, 02/13/2024 - 09:32&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/euronav-5" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about EURONAV&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2024-02-13T09:32:21Z" class="datetime"&gt;Tue, 02/13/2024 - 10:32&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2024/2024-%2528EURONAV%2529-NL-OPA20230293-A16-B01-C01-NP-CD13_02.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2024-(EURONAV)-NL-OPA20230293-A16-B01-C01-NP-CD13_02.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106637" hreflang="en"&gt;Offre publique d'achat obligatoire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029704"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;EURONAV&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029705"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;CMB&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2024-02-13T09:32:21Z" class="datetime"&gt;Tue, 02/13/2024 - 10:32&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 13 Feb 2024 08:32:21 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">396338 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>SIBELCO</title>
+  <link>http://www.fsma.be/en/prospectus/sibelco-2</link>
+  <description>
+SIBELCO&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-01-16T15:47:42+01:00" title="Tuesday, January 16, 2024 - 15:47" class="datetime"&gt;Tue, 01/16/2024 - 15:47&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/sibelco-2" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about SIBELCO&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2024-01-16T15:47:42Z" class="datetime"&gt;Tue, 01/16/2024 - 16:47&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2024/2024-%2528SIBELCO%2529-NL-OPA20230330-A19-B01-C01-NP-CD16_01.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2024-(SIBELCO)-NL-OPA20230330-A19-B01-C01-NP-CD16_01.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106640" hreflang="en"&gt;Offre publique de rachat d'actions propres&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029642"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;SIBELCO&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029643"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;SIBELCO&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2024-01-16T15:47:42Z" class="datetime"&gt;Tue, 01/16/2024 - 16:47&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 16 Jan 2024 14:47:42 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">391859 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>INTERVEST OFFICES &amp; WAREHOUSES</title>
+  <link>http://www.fsma.be/en/prospectus/intervest-offices-warehouses-2</link>
+  <description>
+INTERVEST OFFICES &amp;amp; WAREHOUSES&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-01-16T10:13:23+01:00" title="Tuesday, January 16, 2024 - 10:13" class="datetime"&gt;Tue, 01/16/2024 - 10:13&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/intervest-offices-warehouses-2" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about INTERVEST OFFICES &amp;amp; WAREHOUSES&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2024-01-16T10:13:23Z" class="datetime"&gt;Tue, 01/16/2024 - 11:13&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2024/2024-%2528INTERVEST%2529-NL-OPA20230299-A14-B01-C01-NP-CD16_01.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2024-(INTERVEST)-NL-OPA20230299-A14-B01-C01-NP-CD16_01.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029936"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;INTERVEST OFFICES &amp;amp; WAREHOUSES&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029937"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;EUROPEAN REAL ESTATE HOLDINGS&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2024-01-16T10:13:23Z" class="datetime"&gt;Tue, 01/16/2024 - 11:13&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 16 Jan 2024 09:13:23 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">391766 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>EXMAR</title>
+  <link>http://www.fsma.be/en/prospectus/exmar-2</link>
+  <description>
+EXMAR&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;amplexor_old&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2023-06-06T11:01:52+02:00" title="Tuesday, June 6, 2023 - 11:01" class="datetime"&gt;Tue, 06/06/2023 - 11:01&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/en/prospectus/exmar-2" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Read more&lt;span class="visually-hidden"&gt; about EXMAR&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date"&gt;
+  &lt;div class="field__label"&gt;Date&lt;/div&gt;
+    &lt;div class="field field--name-field-ct-date-time field--type-datetime field--label-above prospectus-field-date meta-text meta-text--date"&gt;
+  &lt;time datetime="2023-06-06T11:01:52Z" class="datetime"&gt;Tue, 06/06/2023 - 13:01&lt;/time&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-category field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Category&lt;/div&gt;
+              &lt;div class="field__item"&gt;ProspectusOPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-pros-sector field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Sector&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-files field--type-file field--label-above"&gt;
+    &lt;div class="field__label"&gt;Files&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+
+  &lt;a class="file--mime-application-pdf file--application-pdf file-link" href="http://www.fsma.be/sites/default/files/prospectus/files/2023/2023-%2528EXMAR%2529-NL-OPA20230124-A14-B01-C01-NP-CD06_06.pdf"&gt;
+
+          &lt;svg focusable="false" aria-hidden="true" class="icon icon--910-document-pdf"&gt;
+  &lt;use xlink:href="#icon--910-document-pdf" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+    
+    &lt;span class="file-link__text"&gt;2023-(EXMAR)-NL-OPA20230124-A14-B01-C01-NP-CD06_06.pdf&lt;/span&gt;
+
+  &lt;/a&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-filter field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Filter&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-operation-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Transaction&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106635" hreflang="en"&gt;Offre publique d'achat volontaire&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-security-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Securities&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106644" hreflang="en"&gt;Actions&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-document-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Document&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/en/taxonomy/term/106626" hreflang="en"&gt;Prospectus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-company field--type-entity-reference-revisions field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029884"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;SAVEREX&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;Offeror&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;
+   
+    &lt;div class="paragraph paragraph--type--pt-company paragraph--view-mode--default"&gt;
+      &lt;span class="scrolltarget" id="paragraph-12029885"&gt;&lt;/span&gt;
+                &lt;div class="field field--name-field-pt-company field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company&lt;/div&gt;
+              &lt;div class="field__item"&gt;EXMAR&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-pt-company-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Company Type&lt;/div&gt;
+              &lt;div class="field__item"&gt;OPA-Cible&lt;/div&gt;
+          &lt;/div&gt;
+
+          &lt;/div&gt;
+
+  
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-last-update field--type-datetime field--label-above"&gt;
+    &lt;div class="field__label"&gt;Last Update&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2023-06-06T11:01:52Z" class="datetime"&gt;Tue, 06/06/2023 - 13:01&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-show-on-portal field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Show on Portal&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 06 Jun 2023 09:01:52 +0000</pubDate>
+    <dc:creator>amplexor_old</dc:creator>
+    <guid isPermaLink="false">351919 at http://www.fsma.be</guid>
+    </item>
+
+  </channel>
+</rss>

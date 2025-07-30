@@ -1,0 +1,84 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Chaudfontaine",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "16B",
+            "phone": "",
+            "street": "Rue Savoyard",
+            "valid_from_date": "2018-01-15T00:00:00",
+            "valid_to_date": "2024-12-31T00:00:00",
+            "zip": "4052"
+        },
+        {
+            "building": "",
+            "city": "Chaudfontaine",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "133 b 12",
+            "phone": "",
+            "street": "Voie de l'Air Pur",
+            "valid_from_date": "2025-01-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "4052"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "107255",
+    "country_head_office": "BE",
+    "enterprise_number": "0825.256.697",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-11-30T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2010-04-20T00:00:00",
+            "valid_to_date_time": "2023-11-29T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "BEROM CONSULTING",
+            "valid_from_date": "2010-04-20T00:00:00",
+            "valid_to_date": "2023-11-29T00:00:00"
+        },
+        {
+            "name": "TB ADVICE",
+            "valid_from_date": "2023-11-30T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2024-07-16T00:00:00",
+            "valid_to_date_time": "2024-11-07T00:00:00"
+        }
+    ],
+    "title": "TB ADVICE"
+}

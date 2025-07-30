@@ -1,0 +1,89 @@
+{
+    "address": [
+        {
+            "building": "Cadenza Building",
+            "city": "Dublin 2",
+            "country_code": "IE",
+            "email": "",
+            "house_number": "19/20",
+            "phone": "",
+            "street": "Earlsfort Terrace",
+            "valid_from_date": "2024-07-15T00:00:00",
+            "valid_to_date": null,
+            "zip": "D02 EN84"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "IE",
+    "enterprise_number": null,
+    "legal_form_entity": [],
+    "legal_names": [
+        {
+            "name": "KKR Credit Advisors (Ireland) Unlimited Company",
+            "valid_from_date": "2019-01-25T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2019-01-25T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2019-01-25T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2019-01-25T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 7 - Placing without a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2019-01-25T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "List of investment companies governed by the law of another EEA Member State that  have notified their intention to provide investment services in Belgium under the freedom to provide services regime"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA investment firms"
+                }
+            ],
+            "valid_from_date_time": "2019-01-25T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "KKR Credit Advisors (Ireland) Unlimited Company"
+}

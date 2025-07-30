@@ -1,0 +1,75 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "1",
+            "phone": "",
+            "street": "Place du Tr\u00f4ne",
+            "valid_from_date": "2017-07-01T00:00:00",
+            "valid_to_date": "2025-02-04T00:00:00",
+            "zip": "1000"
+        },
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "251",
+            "phone": "",
+            "street": "Boulevard Sylvain Dupuis",
+            "valid_from_date": "2025-02-05T00:00:00",
+            "valid_to_date": "2025-09-07T00:00:00",
+            "zip": "1070"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "00307",
+    "country_head_office": "BE",
+    "enterprise_number": "0453.689.685",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1994-10-25T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Anhyp Invest",
+            "valid_from_date": "1994-10-25T00:00:00",
+            "valid_to_date": "2001-01-28T00:00:00"
+        },
+        {
+            "name": "Axa Belgium Fund, en abr\u00e9g\u00e9 Axa B Fund",
+            "valid_from_date": "2001-01-29T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "I.2. Investment companies"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian UCITS"
+                }
+            ],
+            "valid_from_date_time": "2014-07-22T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Axa Belgium Fund, en abr\u00e9g\u00e9 Axa B Fund"
+}

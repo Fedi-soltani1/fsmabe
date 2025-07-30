@@ -1,0 +1,160 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Antwerpen",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "184",
+            "phone": "",
+            "street": "Jan Van Rijswijcklaan ",
+            "valid_from_date": "2023-03-09T00:00:00",
+            "valid_to_date": null,
+            "zip": "2020"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0422.682.151",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1982-04-09T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Beursfondsen-Beheer",
+            "valid_from_date": "1982-04-09T00:00:00",
+            "valid_to_date": "2007-11-13T00:00:00"
+        },
+        {
+            "name": "Capfi Delen Asset Management",
+            "valid_from_date": "2007-11-14T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: a - AIFM portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2015-09-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: b - AIFM risk management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2015-09-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: c - AIFM administration"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2015-09-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: d - AIFM marketing"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2015-09-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "AIFMD: a (MiFID) - Portfolio management (MiFID)"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2015-09-29T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Managers of alternative investment funds - Public"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian AIF managers"
+                }
+            ],
+            "valid_from_date_time": "2015-09-29T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "UCITS: a - UCITS portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2006-09-19T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "UCITS: b - UCITS administration"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2006-09-19T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "UCITS: c - UCITS marketing"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2006-09-19T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "1. Management companies of undertakings for collective investment governed by Belgian law"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian management companies of UCITS"
+                }
+            ],
+            "valid_from_date_time": "2006-09-19T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Capfi Delen Asset Management"
+}

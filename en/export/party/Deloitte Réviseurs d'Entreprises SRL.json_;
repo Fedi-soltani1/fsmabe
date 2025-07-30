@@ -1,0 +1,187 @@
+{
+    "address": [
+        {
+            "building": "Gateway building",
+            "city": "Zaventem",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "1 J",
+            "phone": "",
+            "street": "Luchthaven Nationaal",
+            "valid_from_date": "2017-01-31T00:00:00",
+            "valid_to_date": null,
+            "zip": "1930"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0429.053.863",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2021-03-30T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Cooperative society with limited liability"
+                }
+            ],
+            "valid_from_date_time": "2018-11-01T00:00:00",
+            "valid_to_date_time": "2021-03-29T00:00:00"
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Civil society in the form of a limited liability CS"
+                }
+            ],
+            "valid_from_date_time": "1994-01-14T00:00:00",
+            "valid_to_date_time": "2018-10-31T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Deloitte R\u00e9viseurs d'Entreprises SRL",
+            "valid_from_date": "2005-06-01T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "MOONS Julien",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "VAN HAUTEGEM Pieter",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "CHANG Bianca",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "VAN BAELEN Jo",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "Renders Tom",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "Vandeweyer Ben",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "HENRION Benjamin",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "Wevers Franky",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "Vlaminckx Dirk",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "De Brabander Kathleen",
+            "valid_to_date": null
+        },
+        {
+            "relationship_type": [
+                {
+                    "name": "Member Of"
+                }
+            ],
+            "statute": [],
+            "title": "Dehogne Yves",
+            "valid_to_date": null
+        }
+    ],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "2. Authorised audit firms"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "By the FSMA authorised auditors"
+                }
+            ],
+            "valid_from_date_time": "2013-07-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Deloitte R\u00e9viseurs d'Entreprises SRL"
+}

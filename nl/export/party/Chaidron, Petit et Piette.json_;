@@ -1,0 +1,50 @@
+{
+    "address": [],
+    "bank_code": null,
+    "cbfa_code": "012708",
+    "country_head_office": "BE",
+    "enterprise_number": "0454.716.105",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1994-12-30T00:00:00",
+            "valid_to_date_time": "2024-07-05T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "CHAIDRON ASSURANCES",
+            "valid_from_date": "1999-06-24T00:00:00",
+            "valid_to_date": "2022-04-26T00:00:00"
+        },
+        {
+            "name": "Chaidron, Petit et Piette",
+            "valid_from_date": "2022-04-27T00:00:00",
+            "valid_to_date": "2024-07-05T00:00:00"
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "2001-02-12T00:00:00",
+            "valid_to_date_time": "2024-08-21T00:00:00"
+        }
+    ],
+    "title": "Chaidron, Petit et Piette"
+}

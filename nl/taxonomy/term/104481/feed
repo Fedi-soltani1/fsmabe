@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.fsma.be/nl">
+  <channel>
+    <title>Beleggers</title>
+    <link>http://www.fsma.be/nl</link>
+    <description/>
+    <language>nl</language>
+    
+    <item>
+  <title>Jonge beleggers op de beurs</title>
+  <link>http://www.fsma.be/nl/jonge-beleggers-op-de-beurs</link>
+  <description>
+Jonge beleggers op de beurs&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;Heidib&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2022-03-14T17:17:22+01:00" title="Maandag, maart 14, 2022 - 17:17" class="datetime"&gt;Maandag, 14/03/2022 - 17:17&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/nl/jonge-beleggers-op-de-beurs" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Lees meer&lt;span class="visually-hidden"&gt; over Jonge beleggers op de beurs&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+  &lt;div class="text-content text-content--ct-body"&gt;
+                            &lt;div class="table-responsive"&gt;&lt;table&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Onderwerp&lt;/th&gt;
+			&lt;td&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Jonge beleggers op de beurs&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Datum&lt;/th&gt;
+			&lt;td&gt;21.03.2022&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Uur&lt;/th&gt;
+			&lt;td&gt;09:30&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Spreker&lt;/th&gt;
+			&lt;td&gt;Jean-Paul Servais&amp;nbsp;en het team &lt;em&gt;data analytics&lt;/em&gt;&amp;nbsp;van de FSMA&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th scope="row"&gt;Plaats&lt;/th&gt;
+			&lt;td&gt;Webinar&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a class="btn"&gt;De inschrijvingen werden afgesloten&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-speaker field--type-string field--label-above meta-text meta-text--with-label meta-text--speaker"&gt;
+    &lt;div class="field__label"&gt;Spreker&lt;/div&gt;
+              &lt;div class="field__item"&gt;Jean-Paul Servais&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-training-institute field--type-string field--label-above meta-text meta-text--with-label meta-text--training-institute"&gt;
+    &lt;div class="field__label"&gt;Organisatie&lt;/div&gt;
+              &lt;div class="field__item"&gt;FSMA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-public field--type-boolean field--label-above meta-text meta-text--with-label meta-text--public"&gt;
+    &lt;div class="field__label"&gt;Toegankelijk voor het publiek&lt;/div&gt;
+              &lt;div class="field__item"&gt;Ja&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-target-group field--type-entity-reference field--label-above meta-text meta-text--with-label meta-text--target-group"&gt;
+    &lt;div class="field__label"&gt;Doelgroep&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/nl/taxonomy/term/104481" hreflang="nl"&gt;Beleggers&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-location-simple field--type-string field--label-above meta-text meta-text--with-label meta-text--location"&gt;
+    &lt;div class="field__label"&gt;Plaats&lt;/div&gt;
+              &lt;div class="field__item"&gt;Online&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-event-theme field--type-string field--label-above meta-text meta-text--with-label meta-text--event-theme"&gt;
+    &lt;div class="field__label"&gt;Thema&lt;/div&gt;
+              &lt;div class="field__item"&gt;Belegger&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-daterange field--type-daterange field--label-above meta-text meta-text--with-label meta-text--date"&gt;
+    &lt;div class="field__label"&gt;Datum&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2022-03-21T12:00:00Z" class="datetime"&gt;Maandag, 21/03/2022 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Mon, 14 Mar 2022 16:17:22 +0000</pubDate>
+    <dc:creator>Heidib</dc:creator>
+    <guid isPermaLink="false">184586 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>World Investor Week 2024</title>
+  <link>http://www.fsma.be/nl/world-investor-week-2024</link>
+  <description>
+World Investor Week 2024&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;Heidib&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2021-06-24T14:22:15+02:00" title="donderdag, juni 24, 2021 - 14:22" class="datetime"&gt;do, 24/06/2021 - 14:22&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/nl/world-investor-week-2024" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Lees meer&lt;span class="visually-hidden"&gt; over World Investor Week 2024&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+  &lt;div class="text-content text-content--ct-body"&gt;
+                            &lt;p&gt;&lt;span lang="NL-BE"&gt;Van 7 tot 13 oktober 2024 vindt de achtste editie van de&amp;nbsp;&lt;/span&gt;&lt;em&gt;&lt;span lang="NL-BE"&gt;World Investor Week&lt;/span&gt;&lt;/em&gt;&lt;span lang="NL-BE"&gt;&amp;nbsp;plaats. Dit is een initiatief van IOSCO, de internationale organisatie van financiële toezichthouders.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span lang="NL-BE"&gt;Het doel van deze themaweek is de financiële educatie en de beleggersbescherming te bevorderen door de schijnwerper te richten op de waaier aan initiatieven van de verschillende toezichthouders.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span lang="NL-BE"&gt;Meer informatie: &lt;/span&gt;&lt;a href="https://www.worldinvestorweek.org/"&gt;&lt;span lang="NL-BE"&gt;https://www.worldinvestorweek.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class="align-center media media--image"&gt;
+  
+  
+  &lt;picture loading="lazy" class="image orientation--landscape image--style--extra_large"&gt;
+    &lt;img loading="lazy" src="http://www.fsma.be/sites/default/files/styles/extra_large/public/images/world-investor-week.png?itok=bSTBtqlc" width="381" height="194" alt="World Investor Week: het logo van de World Investor Week" title="World Investor Week: het logo van de World Investor Week" class="image-style--extra-large"&gt;
+
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+  &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-speaker field--type-string field--label-above meta-text meta-text--with-label meta-text--speaker"&gt;
+    &lt;div class="field__label"&gt;Spreker&lt;/div&gt;
+              &lt;div class="field__item"&gt;Multiple speakers&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-training-institute field--type-string field--label-above meta-text meta-text--with-label meta-text--training-institute"&gt;
+    &lt;div class="field__label"&gt;Organisatie&lt;/div&gt;
+              &lt;div class="field__item"&gt;IOSCO&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-public field--type-boolean field--label-above meta-text meta-text--with-label meta-text--public"&gt;
+    &lt;div class="field__label"&gt;Toegankelijk voor het publiek&lt;/div&gt;
+              &lt;div class="field__item"&gt;Ja&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-target-group field--type-entity-reference field--label-above meta-text meta-text--with-label meta-text--target-group"&gt;
+    &lt;div class="field__label"&gt;Doelgroep&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/nl/taxonomy/term/104481" hreflang="nl"&gt;Beleggers&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-location-simple field--type-string field--label-above meta-text meta-text--with-label meta-text--location"&gt;
+    &lt;div class="field__label"&gt;Plaats&lt;/div&gt;
+              &lt;div class="field__item"&gt;Online&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-event-theme field--type-string field--label-above meta-text meta-text--with-label meta-text--event-theme"&gt;
+    &lt;div class="field__label"&gt;Thema&lt;/div&gt;
+              &lt;div class="field__item"&gt;Beleggingen&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-daterange field--type-daterange field--label-above meta-text meta-text--with-label meta-text--date"&gt;
+    &lt;div class="field__label"&gt;Datum&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2024-10-07T12:00:00Z" class="datetime"&gt;Maandag, 07/10/2024 - 12:00&lt;/time&gt;
+ - &lt;time datetime="2024-10-13T12:00:00Z" class="datetime"&gt;zo, 13/10/2024 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Thu, 24 Jun 2021 12:22:15 +0000</pubDate>
+    <dc:creator>Heidib</dc:creator>
+    <guid isPermaLink="false">171681 at http://www.fsma.be</guid>
+    </item>
+<item>
+  <title>Webinar - Retailbeleggers op de beurs</title>
+  <link>http://www.fsma.be/nl/webinar-retailbeleggers-op-de-beurs</link>
+  <description>
+Webinar - Retailbeleggers op de beurs&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;Heidib&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2021-05-15T10:07:19+02:00" title="zaterdag, mei 15, 2021 - 10:07" class="datetime"&gt;za, 15/05/2021 - 10:07&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/nl/webinar-retailbeleggers-op-de-beurs" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Lees meer&lt;span class="visually-hidden"&gt; over Webinar - Retailbeleggers op de beurs&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+  &lt;div class="text-content text-content--ct-body"&gt;
+                            &lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Naar aanleiding van de publicatie van haar jaarverslag 2020 nodigt de FSMA u uit om deel te nemen aan een webinar. Tijdens dit webinar zal Jean-Paul Servais, voorzitter van de FSMA, een nieuwe studie voorstellen over de retailbeleggers op de Brusselse beurs.&lt;br&gt;
+&lt;br&gt;
+Dit webinar vindt plaats op &lt;strong&gt;&lt;span&gt;maandag 21 juni 2021 om 10 uur&lt;/span&gt;&lt;/strong&gt; via Teams.&lt;/span&gt;&lt;br&gt;
+Het webinar zal afwisselend in NL en FR plaatsvinden.&amp;nbsp;&lt;span&gt;U kan uw vragen via chat stellen tijdens het webinar.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="btn" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MThiOWVmYjEtOWRmZi00ODEyLWE1NDUtNTUzZTFlYTc0MWJh%40thread.v2/0?context=%7b%22Tid%22%3a%2228a82de2-1579-4689-9e91-ada6d2c91cd4%22%2c%22Oid%22%3a%2297da8469-076b-42a4-b3f7-6bc4da78b572%22%2c%22IsBroadcastMeeting%22%3atrue%7d&amp;amp;btype=a&amp;amp;role=a"&gt;Volg hier&amp;nbsp;het webinar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;a href="http://www.fsma.be/nl/node/130618"&gt;
+&lt;figure class="align-center media media--image"&gt;
+  
+  
+  &lt;picture loading="lazy" class="image orientation--landscape image--style--extra_large"&gt;
+    &lt;img loading="lazy" src="http://www.fsma.be/sites/default/files/styles/extra_large/public/images/WEBINAR_new_0.png?itok=Hb_ubi0E" width="861" height="560" alt="Webinar - 21.06.2021 - 10:00 Retailbeleggers op de Brusselse beurs" title="Webinar - 21.06.2021 - 10:00 Retailbeleggers op de Brusselse beurs" class="image-style--extra-large"&gt;
+
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/a&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-speaker field--type-string field--label-above meta-text meta-text--with-label meta-text--speaker"&gt;
+    &lt;div class="field__label"&gt;Spreker&lt;/div&gt;
+              &lt;div class="field__item"&gt;Jean-Paul Servais&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-training-institute field--type-string field--label-above meta-text meta-text--with-label meta-text--training-institute"&gt;
+    &lt;div class="field__label"&gt;Organisatie&lt;/div&gt;
+              &lt;div class="field__item"&gt;FSMA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-public field--type-boolean field--label-above meta-text meta-text--with-label meta-text--public"&gt;
+    &lt;div class="field__label"&gt;Toegankelijk voor het publiek&lt;/div&gt;
+              &lt;div class="field__item"&gt;Ja&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-target-group field--type-entity-reference field--label-above meta-text meta-text--with-label meta-text--target-group"&gt;
+    &lt;div class="field__label"&gt;Doelgroep&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/nl/taxonomy/term/104481" hreflang="nl"&gt;Beleggers&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-location-simple field--type-string field--label-above meta-text meta-text--with-label meta-text--location"&gt;
+    &lt;div class="field__label"&gt;Plaats&lt;/div&gt;
+              &lt;div class="field__item"&gt;Online&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-event-theme field--type-string field--label-above meta-text meta-text--with-label meta-text--event-theme"&gt;
+    &lt;div class="field__label"&gt;Thema&lt;/div&gt;
+              &lt;div class="field__item"&gt;Investments&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-daterange field--type-daterange field--label-above meta-text meta-text--with-label meta-text--date"&gt;
+    &lt;div class="field__label"&gt;Datum&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2021-06-21T12:00:00Z" class="datetime"&gt;Maandag, 21/06/2021 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Sat, 15 May 2021 08:07:19 +0000</pubDate>
+    <dc:creator>Heidib</dc:creator>
+    <guid isPermaLink="false">117440 at http://www.fsma.be</guid>
+    </item>
+
+  </channel>
+</rss>

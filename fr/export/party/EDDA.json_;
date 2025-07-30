@@ -1,0 +1,88 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Nijlen",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "19 b A",
+            "phone": "",
+            "street": "Nonnenstraat",
+            "valid_from_date": "2024-07-17T00:00:00",
+            "valid_to_date": null,
+            "zip": "2560"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0896.866.156",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2024-07-17T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2008-03-26T00:00:00",
+            "valid_to_date_time": "2024-07-16T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "EDDA",
+            "valid_from_date": "2008-03-26T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: ILP - Investment Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-06-10T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: OLP - Other Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-06-10T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2025-06-10T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "EDDA"
+}

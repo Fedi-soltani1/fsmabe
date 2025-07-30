@@ -1,0 +1,98 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Westerlo",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "9 b b",
+            "phone": "",
+            "street": "Oeveldorp",
+            "valid_from_date": "2015-05-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "2260"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "061404",
+    "country_head_office": "BE",
+    "enterprise_number": "0859.676.356",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2020-12-10T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2003-07-17T00:00:00",
+            "valid_to_date_time": "2020-12-09T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "VERZEKERINGEN VERREZEN",
+            "valid_from_date": "2003-07-17T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: ILP - Investment Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2003-08-28T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2003-08-28T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: OLP - Other Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2003-08-28T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "2003-07-29T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "VERZEKERINGEN VERREZEN"
+}

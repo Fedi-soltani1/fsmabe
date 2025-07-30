@@ -1,0 +1,117 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Puurs-Sint-Amands",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "33",
+            "phone": "",
+            "street": "Alfons Piessensstraat",
+            "valid_from_date": "2024-07-18T00:00:00",
+            "valid_to_date": null,
+            "zip": "2870"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "112101",
+    "country_head_office": "BE",
+    "enterprise_number": "0536.661.606",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2020-01-01T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited liability company"
+                }
+            ],
+            "valid_from_date_time": "2013-07-12T00:00:00",
+            "valid_to_date_time": "2019-12-31T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "DEKEERSMAEKER KOEN",
+            "valid_from_date": "2013-07-12T00:00:00",
+            "valid_to_date": "2024-07-17T00:00:00"
+        },
+        {
+            "name": "DEKEERSMAEKER INVEST",
+            "valid_from_date": "2024-07-18T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-02-07T00:00:00",
+            "valid_to_date_time": "2024-11-13T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-02-07T00:00:00",
+            "valid_to_date_time": "2024-11-13T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Banking and investment agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian agents in Banking and investment services"
+                }
+            ],
+            "valid_from_date_time": "2013-08-13T00:00:00",
+            "valid_to_date_time": "2024-11-13T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Agents"
+                }
+            ],
+            "valid_from_date_time": "2013-08-13T00:00:00",
+            "valid_to_date_time": "2024-11-13T00:00:00"
+        }
+    ],
+    "title": "DEKEERSMAEKER INVEST"
+}

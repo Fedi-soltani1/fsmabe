@@ -1,0 +1,58 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Gent",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "6",
+            "phone": "",
+            "street": "Paul van Tieghemlaan",
+            "valid_from_date": "1997-11-06T00:00:00",
+            "valid_to_date": null,
+            "zip": "9030"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0456.242.369",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1995-10-11T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "RUCRA",
+            "valid_from_date": "1995-10-11T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Broker Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Brokers"
+                }
+            ],
+            "valid_from_date_time": "2017-08-01T00:00:00",
+            "valid_to_date_time": "2025-07-15T00:00:00"
+        }
+    ],
+    "title": "RUCRA"
+}

@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Gent",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "803",
+            "phone": "",
+            "street": "Brusselsesteenweg",
+            "valid_from_date": "2014-07-18T00:00:00",
+            "valid_to_date": null,
+            "zip": "9050"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0864.344.927",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-12-13T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2004-03-16T00:00:00",
+            "valid_to_date_time": "2023-12-12T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Vlot Trans",
+            "valid_from_date": "2004-03-16T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2022-04-05T00:00:00",
+            "valid_to_date_time": "2025-07-11T00:00:00"
+        }
+    ],
+    "title": "Vlot Trans"
+}

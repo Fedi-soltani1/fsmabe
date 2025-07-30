@@ -1,0 +1,48 @@
+{
+    "address": [
+        {
+            "building": "Gateway building",
+            "city": "ZAVENTEM",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "1 J",
+            "phone": "",
+            "street": "Luchthaven Brussel Nationaal",
+            "valid_from_date": "2004-10-06T00:00:00",
+            "valid_to_date": null,
+            "zip": "1930"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": null,
+    "enterprise_number": null,
+    "legal_form_entity": [],
+    "legal_names": [
+        {
+            "name": "Dehogne Yves",
+            "valid_from_date": "2004-10-06T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "1. Authorised auditors"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "By the FSMA authorised auditors"
+                }
+            ],
+            "valid_from_date_time": "2013-07-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Dehogne Yves"
+}

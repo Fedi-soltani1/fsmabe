@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Kampenhout",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "496",
+            "phone": "",
+            "street": "Haachtsesteenweg",
+            "valid_from_date": "2018-03-21T00:00:00",
+            "valid_to_date": null,
+            "zip": "1910"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0692.779.740",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-12-22T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2018-03-21T00:00:00",
+            "valid_to_date_time": "2023-12-21T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Tony Automotive",
+            "valid_from_date": "2018-03-21T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2022-02-15T00:00:00",
+            "valid_to_date_time": "2025-07-15T00:00:00"
+        }
+    ],
+    "title": "Tony Automotive"
+}

@@ -1,0 +1,89 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Luxembourg",
+            "country_code": "LU",
+            "email": "",
+            "house_number": "75",
+            "phone": "",
+            "street": "boulevard Grande-Duchesse Charlotte",
+            "valid_from_date": "2024-07-15T00:00:00",
+            "valid_to_date": null,
+            "zip": "1331"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "LU",
+    "enterprise_number": null,
+    "legal_form_entity": [],
+    "legal_names": [
+        {
+            "name": "Logiver SA",
+            "valid_from_date": "2011-02-03T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2011-02-03T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2011-02-03T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2011-02-03T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 5 - Investment research"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2011-02-03T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "List of investment companies governed by the law of another EEA Member State that  have notified their intention to provide investment services in Belgium under the freedom to provide services regime"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA investment firms"
+                }
+            ],
+            "valid_from_date_time": "2011-02-03T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Logiver SA"
+}

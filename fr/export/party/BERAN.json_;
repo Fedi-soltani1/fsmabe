@@ -1,0 +1,79 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Ronse",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "26",
+            "phone": "",
+            "street": "Nieuwebrugstraat",
+            "valid_from_date": "2012-11-20T00:00:00",
+            "valid_to_date": "2025-05-31T00:00:00",
+            "zip": "9600"
+        },
+        {
+            "building": "",
+            "city": "Ronse",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "189 b 2",
+            "phone": "",
+            "street": "Leuzesesteenweg",
+            "valid_from_date": "2025-06-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "9600"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0459.685.572",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-03-06T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "1996-12-30T00:00:00",
+            "valid_to_date_time": "2023-03-05T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "BERAN",
+            "valid_from_date": "1996-12-30T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2021-10-12T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "BERAN"
+}

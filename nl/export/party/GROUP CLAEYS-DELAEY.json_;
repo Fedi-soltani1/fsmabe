@@ -1,0 +1,102 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Koksijde",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "16",
+            "phone": "",
+            "street": "Leopold II Laan(Odk)",
+            "valid_from_date": "1999-12-13T00:00:00",
+            "valid_to_date": null,
+            "zip": "8670"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "045049",
+    "country_head_office": "BE",
+    "enterprise_number": "0468.366.280",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-12-29T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1999-12-13T00:00:00",
+            "valid_to_date_time": "2023-12-28T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "KANTOOR DELAEY - STEVELINCK",
+            "valid_from_date": "1999-12-13T00:00:00",
+            "valid_to_date": "2022-05-18T00:00:00"
+        },
+        {
+            "name": "GROUP CLAEYS-DELAEY",
+            "valid_from_date": "2022-05-19T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-03-28T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Tied Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Tied Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-03-28T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Banking and investment agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian agents in Banking and investment services"
+                }
+            ],
+            "valid_from_date_time": "2008-06-17T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "GROUP CLAEYS-DELAEY"
+}

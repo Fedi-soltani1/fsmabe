@@ -1,0 +1,141 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "11",
+            "phone": "",
+            "street": "Rue de Ligne",
+            "valid_from_date": "1991-06-27T00:00:00",
+            "valid_to_date": "2024-09-29T00:00:00",
+            "zip": "1000"
+        },
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "info@pensionandco.be",
+            "house_number": "13",
+            "phone": "+32 2 227 04 90",
+            "street": "Rue de Ligne",
+            "valid_from_date": "2024-09-30T00:00:00",
+            "valid_to_date": null,
+            "zip": "1000"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "50429",
+    "country_head_office": "BE",
+    "enterprise_number": "0443.872.196",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Pension scheme organisation"
+                }
+            ],
+            "valid_from_date_time": "2010-11-18T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Pension & Co IBP",
+            "valid_from_date": "1991-06-27T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "CY",
+                    "valid_from_date": "2019-01-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "GB",
+                    "valid_from_date": "2019-01-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "IE",
+                    "valid_from_date": "2019-01-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "LT",
+                    "valid_from_date": "2019-01-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "LU",
+                    "valid_from_date": "2019-01-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "MT",
+                    "valid_from_date": "2019-01-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "BE",
+                    "valid_from_date": "1991-06-27T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Authorized institutions for occupational retirement provision"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian institutions for occupational retirement provision"
+                }
+            ],
+            "valid_from_date_time": "1991-06-27T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Pension & Co IBP"
+}

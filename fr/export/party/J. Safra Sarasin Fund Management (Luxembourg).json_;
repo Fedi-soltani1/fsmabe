@@ -1,0 +1,93 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Luxembourg",
+            "country_code": "LU",
+            "email": "",
+            "house_number": "11-13",
+            "phone": "",
+            "street": "Boulevard de la Foire",
+            "valid_from_date": "2014-02-28T00:00:00",
+            "valid_to_date": "2024-09-30T00:00:00",
+            "zip": "1528"
+        },
+        {
+            "building": "",
+            "city": "Luxembourg",
+            "country_code": "LU",
+            "email": "",
+            "house_number": "19",
+            "phone": "",
+            "street": "Boulevard Joseph II",
+            "valid_from_date": "2024-10-01T00:00:00",
+            "valid_to_date": "2025-03-05T00:00:00",
+            "zip": "1840"
+        },
+        {
+            "building": "",
+            "city": "Luxembourg",
+            "country_code": "LU",
+            "email": "",
+            "house_number": "19",
+            "phone": "",
+            "street": "Boulevard Joseph II",
+            "valid_from_date": "2025-03-06T00:00:00",
+            "valid_to_date": null,
+            "zip": "1840"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "LU",
+    "enterprise_number": null,
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2011-05-03T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "J. Safra Sarasin Fund Management (Luxembourg)",
+            "valid_from_date": "2011-05-03T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "UCITS: c - UCITS marketing"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-08-26T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "List of management companies of undertakings for collective investment governed by the law of another EEA State that have notified their intention to  pursue collective portfolio management activities and provide investment services under the freedom to provide services regime, as laid down in Article  18 of Directive 2009/65/EC"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA management companies of UCITS"
+                }
+            ],
+            "valid_from_date_time": "2016-08-26T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "J. Safra Sarasin Fund Management (Luxembourg)"
+}

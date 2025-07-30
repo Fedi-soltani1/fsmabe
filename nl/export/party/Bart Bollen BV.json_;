@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Pelt",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "5",
+            "phone": "",
+            "street": "Tulpenstraat",
+            "valid_from_date": "2025-07-22T00:00:00",
+            "valid_to_date": null,
+            "zip": "3900"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0859.597.370",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-12-21T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2003-07-09T00:00:00",
+            "valid_to_date_time": "2023-12-20T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Bart Bollen BV",
+            "valid_from_date": "2025-07-22T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Register of legal persons registered as qualified investors and as institutional or professional investors"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Qualified, institutional or professional investors"
+                }
+            ],
+            "valid_from_date_time": "2025-07-22T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Bart Bollen BV"
+}

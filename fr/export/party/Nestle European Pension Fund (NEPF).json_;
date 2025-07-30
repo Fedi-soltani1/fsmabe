@@ -1,0 +1,234 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "nepf@be.nestle.com",
+            "house_number": "221",
+            "phone": "",
+            "street": "Rue de Birmingham",
+            "valid_from_date": "1993-10-05T00:00:00",
+            "valid_to_date": null,
+            "zip": "1070"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "50111",
+    "country_head_office": "BE",
+    "enterprise_number": "0410.355.926",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Pension scheme organisation"
+                }
+            ],
+            "valid_from_date_time": "2007-06-29T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Fonds de Pensions Nestle (FPN)",
+            "valid_from_date": "1993-10-05T00:00:00",
+            "valid_to_date": "2010-12-26T00:00:00"
+        },
+        {
+            "name": "Nestle European Pension Fund (NEPF)",
+            "valid_from_date": "2010-12-27T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "CH",
+                    "valid_from_date": "2023-04-18T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "GI",
+                    "valid_from_date": "2020-08-26T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "FR",
+                    "valid_from_date": "2020-08-25T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "PT",
+                    "valid_from_date": "2018-09-18T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "AE",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "BH",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "JO",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "KW",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "LB",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "OM",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "PS",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "QA",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "SA",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "YE",
+                    "valid_from_date": "2017-08-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "IE",
+                    "valid_from_date": "2012-08-06T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "LU",
+                    "valid_from_date": "2010-03-26T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 1\u00b0 - Employees and/or self-employed company leaders"
+                        }
+                    ],
+                    "to_country": "BE",
+                    "valid_from_date": "1993-10-05T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Authorized institutions for occupational retirement provision"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian institutions for occupational retirement provision"
+                }
+            ],
+            "valid_from_date_time": "1993-10-05T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Nestle European Pension Fund (NEPF)"
+}

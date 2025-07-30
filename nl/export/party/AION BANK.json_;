@@ -1,0 +1,352 @@
+{
+    "address": [
+        {
+            "building": "Manhattan Center",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "21",
+            "phone": "",
+            "street": "avenue du Boulevard",
+            "valid_from_date": "2022-05-25T00:00:00",
+            "valid_to_date": "2024-12-31T00:00:00",
+            "zip": "1210"
+        },
+        {
+            "building": "",
+            "city": "Saint-Josse-ten-Noode",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "1",
+            "phone": "",
+            "street": "Square Victoria R\u00e9gina",
+            "valid_from_date": "2025-01-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "1210"
+        }
+    ],
+    "bank_code": "BMPBBEBB",
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0403.199.306",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1947-06-12T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Banca Monte Paschi Belgio",
+            "valid_from_date": "1992-12-15T00:00:00",
+            "valid_to_date": "2019-10-13T00:00:00"
+        },
+        {
+            "name": "Aion",
+            "valid_from_date": "2019-10-14T00:00:00",
+            "valid_to_date": "2021-02-25T00:00:00"
+        },
+        {
+            "name": "AION BANK",
+            "valid_from_date": "2021-02-26T00:00:00",
+            "valid_to_date": "2025-11-30T00:00:00"
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Lender Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Lenders"
+                }
+            ],
+            "valid_from_date_time": "2017-10-10T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Lender Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Lenders"
+                }
+            ],
+            "valid_from_date_time": "2017-10-10T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Financial institutions that have signed on to the moratorium / Not making use of the opt-out"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Financial institutions that have signed on to the moratorium without opt out"
+                }
+            ],
+            "valid_from_date_time": "2011-08-01T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2001-01-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: OLP - Other Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2001-01-22T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Agents"
+                }
+            ],
+            "valid_from_date_time": "2000-03-03T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-03-06T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 2 - Execution of orders"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-03-06T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-03-06T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-03-06T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 1 - Safekeeping"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-03-06T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 4 - Foreign exchange services"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-03-06T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 5 - Investment research"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-03-06T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 2 - Execution of orders"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 3 - Dealing on own account"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 6 - Underwriting or placing on a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 7 - Placing without a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 1 - Safekeeping"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 2 - Granting credits MiFID"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 3 - Financial engineering"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 4 - Foreign exchange services"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 6 - Services related to underwriting"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2020-03-01T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Banks"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian credit institutions"
+                }
+            ],
+            "valid_from_date_time": "1993-04-19T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "AION BANK"
+}

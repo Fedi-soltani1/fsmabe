@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.fsma.be/nl">
+  <channel>
+    <title>Ingeschreven deelnemers</title>
+    <link>http://www.fsma.be/nl</link>
+    <description/>
+    <language>nl</language>
+    
+    <item>
+  <title>FSMA Academy - One last thing (actuele onderwerpen en afsluiting van het programma)</title>
+  <link>http://www.fsma.be/nl/fsma-academy-one-last-thing-actuele-onderwerpen-en-afsluiting-van-het-programma</link>
+  <description>
+FSMA Academy - One last thing (actuele onderwerpen en afsluiting van het programma)&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;Heidib&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-08-21T12:12:41+02:00" title="woensdag, augustus 21, 2024 - 12:12" class="datetime"&gt;wo, 21/08/2024 - 12:12&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="inline-links"&gt;&lt;nav class="links inline nav nav--inline-links" aria-label="Inline links"&gt;&lt;span class="node-readmore nav-link"&gt;&lt;a href="http://www.fsma.be/nl/fsma-academy-one-last-thing-actuele-onderwerpen-en-afsluiting-van-het-programma" class="arrowbutton arrowbutton--large"&gt;
+              &lt;span class="arrowbutton__text"&gt;Lees meer&lt;span class="visually-hidden"&gt; over FSMA Academy - One last thing (actuele onderwerpen en afsluiting van het programma)&lt;/span&gt;&lt;/span&gt;
+              &lt;svg focusable="false" aria-hidden="true" class="icon icon--chevron-down"&gt;
+  &lt;use xlink:href="#icon--chevron-down" xmlns:xlink="http://www.w3.org/1999/xlink" /&gt;
+&lt;/svg&gt;
+            &lt;/a&gt;&lt;/span&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+  &lt;div class="text-content text-content--ct-body"&gt;
+                            &lt;p&gt;&lt;span lang="NL-BE"&gt;Dit programma moet ertoe leiden dat de spelers in de financiële sector de regels waarop de FSMA toezicht houdt, beter naleven, door hun kennis van deze regels te vergroten.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Dit opleidingsprogramma richt zich tot &lt;strong&gt;professionals&lt;/strong&gt; in de financiële sector in de breedste zin van het woord.&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.fsma.be/nl/fsma-academy/programma"&gt;&lt;span lang="NL-BE"&gt;Bekijk het programma&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-speaker field--type-string field--label-above meta-text meta-text--with-label meta-text--speaker"&gt;
+    &lt;div class="field__label"&gt;Spreker&lt;/div&gt;
+              &lt;div class="field__item"&gt;FSMA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-training-institute field--type-string field--label-above meta-text meta-text--with-label meta-text--training-institute"&gt;
+    &lt;div class="field__label"&gt;Organisatie&lt;/div&gt;
+              &lt;div class="field__item"&gt;FSMA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-public field--type-boolean field--label-above meta-text meta-text--with-label meta-text--public"&gt;
+    &lt;div class="field__label"&gt;Toegankelijk voor het publiek&lt;/div&gt;
+              &lt;div class="field__item"&gt;Nee&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-target-group field--type-entity-reference field--label-above meta-text meta-text--with-label meta-text--target-group"&gt;
+    &lt;div class="field__label"&gt;Doelgroep&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://www.fsma.be/nl/taxonomy/term/108441" hreflang="nl"&gt;Ingeschreven deelnemers&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-location-simple field--type-string field--label-above meta-text meta-text--with-label meta-text--location"&gt;
+    &lt;div class="field__label"&gt;Plaats&lt;/div&gt;
+              &lt;div class="field__item"&gt;Wikifin Lab&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-event-theme field--type-string field--label-above meta-text meta-text--with-label meta-text--event-theme"&gt;
+    &lt;div class="field__label"&gt;Thema&lt;/div&gt;
+              &lt;div class="field__item"&gt;FSMA&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field--name-field-ct-daterange field--type-daterange field--label-above meta-text meta-text--with-label meta-text--date"&gt;
+    &lt;div class="field__label"&gt;Datum&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;time datetime="2024-12-12T12:00:00Z" class="datetime"&gt;do, 12/12/2024 - 12:00&lt;/time&gt;
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Wed, 21 Aug 2024 10:12:41 +0000</pubDate>
+    <dc:creator>Heidib</dc:creator>
+    <guid isPermaLink="false">441180 at http://www.fsma.be</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Ixelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "5",
+            "phone": "",
+            "street": "Place du Champ de Mars",
+            "valid_from_date": "2023-02-20T00:00:00",
+            "valid_to_date": null,
+            "zip": "1050"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0711.818.068",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2018-10-17T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "CFC EUROPE",
+            "valid_from_date": "2018-10-17T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2022-09-13T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Underwriters"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mandated Underwriters"
+                }
+            ],
+            "valid_from_date_time": "2022-09-13T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "CFC EUROPE"
+}

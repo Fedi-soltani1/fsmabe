@@ -1,0 +1,46 @@
+{
+    "address": [],
+    "bank_code": null,
+    "cbfa_code": "018445",
+    "country_head_office": "BE",
+    "enterprise_number": "0854.693.625",
+    "legal_form_entity": [],
+    "legal_names": [
+        {
+            "name": "Pirlot, B\u00e9atrice",
+            "valid_from_date": "1986-01-01T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2021-02-09T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Agent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Agents"
+                }
+            ],
+            "valid_from_date_time": "2021-02-09T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Pirlot, B\u00e9atrice"
+}

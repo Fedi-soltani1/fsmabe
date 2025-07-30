@@ -1,0 +1,58 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Gent",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "1",
+            "phone": "",
+            "street": "Suzanne Tassierstraat",
+            "valid_from_date": "2025-06-17T00:00:00",
+            "valid_to_date": null,
+            "zip": "9052"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "07653",
+    "country_head_office": "BE",
+    "enterprise_number": "1024.242.497",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Limited partnership"
+                }
+            ],
+            "valid_from_date_time": "2025-06-12T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Biotope Ventures II",
+            "valid_from_date": "2025-06-17T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Self-managed alternative investment funds - Non-public"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian small selfmanaged AIF"
+                }
+            ],
+            "valid_from_date_time": "2025-07-15T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Biotope Ventures II"
+}

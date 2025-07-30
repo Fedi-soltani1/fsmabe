@@ -1,0 +1,70 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Marche-en-Famenne",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "14",
+            "phone": "",
+            "street": "Marche,Boucle de la Famenne",
+            "valid_from_date": "2017-12-09T00:00:00",
+            "valid_to_date": "2025-05-31T00:00:00",
+            "zip": "6900"
+        },
+        {
+            "building": "",
+            "city": "Bastogne",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "139",
+            "phone": "",
+            "street": "Rue de Marche",
+            "valid_from_date": "2025-06-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "6600"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0404.364.789",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1992-10-24T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "PICARD",
+            "valid_from_date": "1992-10-24T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-01-11T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "PICARD"
+}

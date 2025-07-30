@@ -1,0 +1,67 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Oostkamp",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "2",
+            "phone": "",
+            "street": "Seringendreef",
+            "valid_from_date": "2025-07-18T00:00:00",
+            "valid_to_date": null,
+            "zip": "8020"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0822.171.109",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2022-03-21T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2010-01-06T00:00:00",
+            "valid_to_date_time": "2022-03-20T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "DHP Concrete",
+            "valid_from_date": "2025-07-18T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Register of legal persons registered as qualified investors and as institutional or professional investors"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Qualified, institutional or professional investors"
+                }
+            ],
+            "valid_from_date_time": "2025-07-18T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "DHP Concrete"
+}

@@ -1,0 +1,823 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Madrid",
+            "country_code": "ES",
+            "email": "",
+            "house_number": "4",
+            "phone": "",
+            "street": "C/ Paseo de la Castellana",
+            "valid_from_date": "2016-06-29T00:00:00",
+            "valid_to_date": "2025-06-26T00:00:00",
+            "zip": "28046"
+        },
+        {
+            "building": "",
+            "city": "Madrid ",
+            "country_code": "ES",
+            "email": "",
+            "house_number": "31",
+            "phone": "",
+            "street": "M\u00e9ndez \u00c1lvaro",
+            "valid_from_date": "2025-06-27T00:00:00",
+            "valid_to_date": null,
+            "zip": "28045"
+        },
+        {
+            "building": "",
+            "city": "Namur",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "74-78",
+            "phone": "",
+            "street": "Avenue du Prince de Li\u00e8ge",
+            "valid_from_date": "2016-06-29T00:00:00",
+            "valid_to_date": null,
+            "zip": "5100"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "3004",
+    "country_head_office": "ES",
+    "enterprise_number": "0661.624.528",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Foreign entity"
+                }
+            ],
+            "valid_from_date_time": "2016-08-22T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Compania Espanola de Seguros y Reaseguros de Credito y Caucion",
+            "valid_from_date": "2016-06-29T00:00:00",
+            "valid_to_date": "2016-12-30T00:00:00"
+        },
+        {
+            "name": "Atradius Credito y Caucion S.A. de Seguros y Reaseguros",
+            "valid_from_date": "2016-12-31T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Freedom to provide services in Belgium via European branches of insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2025-06-30T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-12-29T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2017-12-29T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-12-29T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2017-12-29T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2017-11-02T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-11-16T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-11-16T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-06-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-06-29T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Belgian branches of insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Branches of EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-06-29T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 14 - Credit"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-09-12T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "INS: 15 - Suretyship"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-09-12T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Freedom to provide in Belgium by insurance undertakings governed by the law of another Member State"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA Insurance companies"
+                }
+            ],
+            "valid_from_date_time": "2016-06-29T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Atradius Credito y Caucion S.A. de Seguros y Reaseguros"
+}

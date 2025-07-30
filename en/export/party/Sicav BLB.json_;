@@ -1,0 +1,58 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "37",
+            "phone": "",
+            "street": "Boulevard du Roi Albert II",
+            "valid_from_date": "2018-12-13T00:00:00",
+            "valid_to_date": "2025-07-31T00:00:00",
+            "zip": "1030"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "03137",
+    "country_head_office": "BE",
+    "enterprise_number": "0716.687.171",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2018-12-13T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Sicav BLB",
+            "valid_from_date": "2018-12-13T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "I.2. Investment companies"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian UCITS"
+                }
+            ],
+            "valid_from_date_time": "2018-12-18T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Sicav BLB"
+}

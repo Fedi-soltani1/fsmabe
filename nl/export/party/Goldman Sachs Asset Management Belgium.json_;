@@ -1,0 +1,83 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "44",
+            "phone": "",
+            "street": "Avenue des Arts",
+            "valid_from_date": "2024-04-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "1040"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0403.241.371",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1977-04-21T00:00:00",
+            "valid_to_date_time": "2025-01-01T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "ING Investment Management Belgium (IIM Belgium)",
+            "valid_from_date": "2003-01-27T00:00:00",
+            "valid_to_date": "2015-04-06T00:00:00"
+        },
+        {
+            "name": "NN Investment Partners Belgium",
+            "valid_from_date": "2015-04-07T00:00:00",
+            "valid_to_date": "2023-03-05T00:00:00"
+        },
+        {
+            "name": "Goldman Sachs Asset Management Belgium",
+            "valid_from_date": "2023-03-06T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Managers of alternative investment funds - Public"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian AIF managers"
+                }
+            ],
+            "valid_from_date_time": "2015-01-20T00:00:00",
+            "valid_to_date_time": "2024-12-31T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "1. Management companies of undertakings for collective investment governed by Belgian law"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian management companies of UCITS"
+                }
+            ],
+            "valid_from_date_time": "2005-08-25T00:00:00",
+            "valid_to_date_time": "2024-12-31T00:00:00"
+        }
+    ],
+    "title": "Goldman Sachs Asset Management Belgium"
+}

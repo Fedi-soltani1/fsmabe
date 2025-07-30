@@ -1,0 +1,349 @@
+{
+    "address": [
+        {
+            "building": "TaunusTurm",
+            "city": "Frankfurt am Main",
+            "country_code": "DE",
+            "email": "",
+            "house_number": "1",
+            "phone": "",
+            "street": "Taunustor",
+            "valid_from_date": "2016-02-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "60310"
+        },
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "35",
+            "phone": "",
+            "street": "Boulevard du R\u00e9gent",
+            "valid_from_date": "2020-12-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "1000"
+        },
+        {
+            "building": "",
+            "city": "Bruxelles",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "35",
+            "phone": "",
+            "street": "Boulevard du R\u00e9gent",
+            "valid_from_date": "2022-03-29T00:00:00",
+            "valid_to_date": null,
+            "zip": "1000"
+        }
+    ],
+    "bank_code": "AAQQBEQQ",
+    "cbfa_code": null,
+    "country_head_office": "DE",
+    "enterprise_number": "0715.622.844",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Foreign entity"
+                }
+            ],
+            "valid_from_date_time": "1973-03-05T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "J.P. Morgan AG",
+            "valid_from_date": "2016-02-01T00:00:00",
+            "valid_to_date": "2022-01-21T00:00:00"
+        },
+        {
+            "name": "J.P. Morgan S.E.",
+            "valid_from_date": "2022-01-22T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Notification of Branch by\u00a0EEA Lender\u00a0Consumer Credit\u00a0"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Branches of\u00a0EEA Lenders in\u00a0Consumer Credit\u00a0"
+                }
+            ],
+            "valid_from_date_time": "2022-03-29T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 3 - Dealing on own account"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2022-07-01T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "A. Branches in Belgium of credit institutions governed by the law of another EEA State and/or tied agents established in Belgium (Article 1, \u00a7 3, first paragraph, 1\u00b0 of the Law of 25 April 2014 on the legal status and supervision of credit institutions)"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Branches by EEA credit institutions"
+                }
+            ],
+            "valid_from_date_time": "2019-03-01T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-06-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 2 - Execution of orders"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-06-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 3 - Dealing on own account"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-06-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-06-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-06-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 6 - Underwriting or placing on a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-06-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 7 - Placing without a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2018-06-29T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 2 - Execution of orders"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 3 - Dealing on own account"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 6 - Underwriting or placing on a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 7 - Placing without a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 8 - Operation of an MTF"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 1 - Safekeeping"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 2 - Granting credits MiFID"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 3 - Financial engineering"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 4 - Foreign exchange services"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 5 - Investment research"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 6 - Services related to underwriting"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 7 - Services related to the underlying of derivatives"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-02-01T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "A. Freedom to provide services in Belgium by credit institutions governed by the law of another EEA State /or tied agents established in that other State (Article 1, \u00a7 3, first paragraph, 1\u00b0 of the Law of 25 April 2014 on the legal status and supervision of credit institutions)"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by EEA credit institutions"
+                }
+            ],
+            "valid_from_date_time": "2016-02-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "J.P. Morgan S.E."
+}

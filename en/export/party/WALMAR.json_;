@@ -1,0 +1,122 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Berchem-Sainte-Agathe",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "85B",
+            "phone": "",
+            "street": "Rue de Dilbeek",
+            "valid_from_date": "2007-11-01T00:00:00",
+            "valid_to_date": "2024-08-11T00:00:00",
+            "zip": "1082"
+        },
+        {
+            "building": "",
+            "city": "Oostende",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "366",
+            "phone": "",
+            "street": "Zeedijk",
+            "valid_from_date": "2024-08-12T00:00:00",
+            "valid_to_date": null,
+            "zip": "8400"
+        },
+        {
+            "building": "",
+            "city": "Oostende",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "366",
+            "phone": "",
+            "street": "Zeedijk",
+            "valid_from_date": "2025-07-16T00:00:00",
+            "valid_to_date": null,
+            "zip": "8400"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "014769",
+    "country_head_office": "BE",
+    "enterprise_number": "0445.977.888",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2023-12-23T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "1992-01-02T00:00:00",
+            "valid_to_date_time": "2023-12-22T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "WALMAR",
+            "valid_from_date": "1992-01-02T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: ILP - Investment Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2005-06-14T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2005-06-14T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: OLP - Other Life Product"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2005-06-14T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "1996-06-28T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "WALMAR"
+}

@@ -1,0 +1,60 @@
+{
+    "address": [],
+    "bank_code": null,
+    "cbfa_code": "013911",
+    "country_head_office": "BE",
+    "enterprise_number": "0441.034.947",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1990-06-06T00:00:00",
+            "valid_to_date_time": "2024-07-12T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "INDUVER HASSELT",
+            "valid_from_date": "1990-06-06T00:00:00",
+            "valid_to_date": "2024-07-12T00:00:00"
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Broker Mortgages"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Mortgage Brokers"
+                }
+            ],
+            "valid_from_date_time": "2017-09-19T00:00:00",
+            "valid_to_date_time": "2024-09-17T00:00:00"
+        },
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "1996-06-25T00:00:00",
+            "valid_to_date_time": "2024-09-17T00:00:00"
+        }
+    ],
+    "title": "INDUVER HASSELT"
+}

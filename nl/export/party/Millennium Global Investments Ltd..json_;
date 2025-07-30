@@ -1,0 +1,139 @@
+{
+    "address": [
+        {
+            "building": "15th Floor",
+            "city": "London",
+            "country_code": "GB",
+            "email": "",
+            "house_number": "88",
+            "phone": "",
+            "street": "Wood Street",
+            "valid_from_date": "2024-07-08T00:00:00",
+            "valid_to_date": null,
+            "zip": "EC2V 7AJ"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "GB",
+    "enterprise_number": null,
+    "legal_form_entity": [],
+    "legal_names": [
+        {
+            "name": "Millennium Global Investments Ltd.",
+            "valid_from_date": "1995-12-31T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-07-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 2 - Execution of orders"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-07-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-07-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-07-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 7 - Placing without a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-07-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 1 - Safekeeping"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-07-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 4 - Foreign exchange services"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-07-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 5 - Investment research"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-07-08T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 7 - Services related to the underlying of derivatives"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2024-07-08T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "List of investment companies governed by the law of a country other than an EEA State  that have notified their intention to provide investment services in Belgium under the freedom to provide services regime"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Free provision of services by non-EEA investment firms"
+                }
+            ],
+            "valid_from_date_time": "2024-07-08T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Millennium Global Investments Ltd."
+}

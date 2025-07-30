@@ -1,0 +1,75 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Brugge",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "20",
+            "phone": "",
+            "street": "Gaston Roelandtsplein",
+            "valid_from_date": "1995-04-26T00:00:00",
+            "valid_to_date": "2025-06-30T00:00:00",
+            "zip": "8310"
+        },
+        {
+            "building": "",
+            "city": "Brugge",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "22",
+            "phone": "",
+            "street": "Peter Benoitlaan",
+            "valid_from_date": "2025-07-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "8200"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "015780",
+    "country_head_office": "BE",
+    "enterprise_number": "0420.134.813",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2005-12-23T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Mar\u00e9chal - Verzekeringen",
+            "valid_from_date": "1979-12-15T00:00:00",
+            "valid_to_date": "2005-12-22T00:00:00"
+        },
+        {
+            "name": "MARECHAL VERZEKERINGEN",
+            "valid_from_date": "2005-12-23T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Insurance Broker"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Brokers"
+                }
+            ],
+            "valid_from_date_time": "1996-06-28T00:00:00",
+            "valid_to_date_time": "2024-12-31T00:00:00"
+        }
+    ],
+    "title": "MARECHAL VERZEKERINGEN"
+}

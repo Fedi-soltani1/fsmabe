@@ -1,0 +1,70 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Kontich",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "229",
+            "phone": "",
+            "street": "Pierstraat",
+            "valid_from_date": "2022-05-01T00:00:00",
+            "valid_to_date": "2025-06-30T00:00:00",
+            "zip": "2550"
+        },
+        {
+            "building": "",
+            "city": "Mechelen",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "4",
+            "phone": "",
+            "street": "Bedrijvenlaan",
+            "valid_from_date": "2025-07-01T00:00:00",
+            "valid_to_date": null,
+            "zip": "2800"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0866.701.037",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2004-08-05T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "ISUZU BENELUX",
+            "valid_from_date": "2004-08-05T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2022-04-12T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "ISUZU BENELUX"
+}

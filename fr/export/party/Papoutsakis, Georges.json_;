@@ -1,0 +1,46 @@
+{
+    "address": [],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "1024.797.971",
+    "legal_form_entity": [],
+    "legal_names": [
+        {
+            "name": "Papoutsakis, Georges",
+            "valid_from_date": "2025-07-01T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IDD: NLP - Non Life Insurances"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2025-07-22T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Insurance Subagent"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Insurance Subagents"
+                }
+            ],
+            "valid_from_date_time": "2025-07-22T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Papoutsakis, Georges"
+}

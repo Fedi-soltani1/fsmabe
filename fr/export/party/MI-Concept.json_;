@@ -1,0 +1,72 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Sint-Truiden",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "37",
+            "phone": "",
+            "street": "Tongersesteenweg",
+            "valid_from_date": "2024-07-18T00:00:00",
+            "valid_to_date": null,
+            "zip": "3800"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0680.943.958",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2019-06-28T00:00:00",
+            "valid_to_date_time": null
+        },
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited liability company"
+                }
+            ],
+            "valid_from_date_time": "2017-09-12T00:00:00",
+            "valid_to_date_time": "2019-06-27T00:00:00"
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Center Neven",
+            "valid_from_date": "2017-09-12T00:00:00",
+            "valid_to_date": "2019-06-27T00:00:00"
+        },
+        {
+            "name": "MI-Concept",
+            "valid_from_date": "2019-06-28T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-12-19T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "MI-Concept"
+}

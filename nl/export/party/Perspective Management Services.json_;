@@ -1,0 +1,58 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Steenokkerzeel",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "22",
+            "phone": "",
+            "street": "Klaprozenlaan",
+            "valid_from_date": "2025-07-18T00:00:00",
+            "valid_to_date": null,
+            "zip": "1820"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0880.629.643",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Private limited company"
+                }
+            ],
+            "valid_from_date_time": "2006-03-22T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Perspective Management Services",
+            "valid_from_date": "2025-07-18T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Register of legal persons registered as qualified investors and as institutional or professional investors"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Qualified, institutional or professional investors"
+                }
+            ],
+            "valid_from_date_time": "2025-07-18T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Perspective Management Services"
+}

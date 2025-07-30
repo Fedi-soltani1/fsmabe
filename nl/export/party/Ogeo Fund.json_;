@@ -1,0 +1,74 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Li\u00e8ge",
+            "country_code": "BE",
+            "email": "info@ogeofund.be",
+            "house_number": "5 b Bte 4",
+            "phone": "+32 4 222 01 15",
+            "street": "Rue Sainte-Marie",
+            "valid_from_date": "2013-12-17T00:00:00",
+            "valid_to_date": null,
+            "zip": "4000"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "50570",
+    "country_head_office": "BE",
+    "enterprise_number": "0429.333.876",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Pension scheme organisation"
+                }
+            ],
+            "valid_from_date_time": "2007-07-13T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Fonds de Pensions et de Secours de l'ALE",
+            "valid_from_date": "1935-01-01T00:00:00",
+            "valid_to_date": "2007-07-25T00:00:00"
+        },
+        {
+            "name": "Ogeo Fund",
+            "valid_from_date": "2007-07-26T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "IORP: art. 55, 3\u00b0 - First pillar"
+                        }
+                    ],
+                    "to_country": "BE",
+                    "valid_from_date": "2005-08-11T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "Authorized institutions for occupational retirement provision"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian institutions for occupational retirement provision"
+                }
+            ],
+            "valid_from_date_time": "2005-08-11T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Ogeo Fund"
+}

@@ -1,0 +1,68 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Antwerpen",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "50",
+            "phone": "",
+            "street": "Desguinlei",
+            "valid_from_date": "2007-04-11T00:00:00",
+            "valid_to_date": null,
+            "zip": "2018"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "00261",
+    "country_head_office": "BE",
+    "enterprise_number": "0449.475.729",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1993-03-01T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "F. van Lanschot Bankiers (Belgi\u00eb)",
+            "valid_from_date": "1993-03-01T00:00:00",
+            "valid_to_date": "2009-10-25T00:00:00"
+        },
+        {
+            "name": "Van Lanschot Bevek",
+            "valid_from_date": "2009-10-26T00:00:00",
+            "valid_to_date": "2024-02-29T00:00:00"
+        },
+        {
+            "name": "Merclan",
+            "valid_from_date": "2024-03-01T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "I.2. Investment companies"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian UCITS"
+                }
+            ],
+            "valid_from_date_time": "2014-05-20T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Merclan"
+}

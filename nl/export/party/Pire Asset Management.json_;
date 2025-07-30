@@ -1,0 +1,194 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Charleroi",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "29",
+            "phone": "",
+            "street": "Boulevard Audent",
+            "valid_from_date": "1998-03-13T00:00:00",
+            "valid_to_date": null,
+            "zip": "6000"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": "050012",
+    "country_head_office": "BE",
+    "enterprise_number": "0428.546.988",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1998-03-31T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Pire & Cie",
+            "valid_from_date": "1998-03-13T00:00:00",
+            "valid_to_date": "2014-12-22T00:00:00"
+        },
+        {
+            "name": "Pire Asset Management",
+            "valid_from_date": "2014-12-23T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2014-12-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 2 - Execution of orders"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2014-12-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2014-12-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2014-12-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 7 - Placing without a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2014-12-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 1 - Safekeeping"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2014-12-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 4 - Foreign exchange services"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2014-12-16T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2014-09-23T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 7 - Placing without a firm commitment basis"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2007-11-01T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1998-03-13T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 2 - Execution of orders"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1998-03-13T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 1 - Safekeeping"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1998-03-13T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(B): 4 - Foreign exchange services"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "1998-03-13T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "a. Stockbroking firms under Belgian law"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian stockbroking firms"
+                }
+            ],
+            "valid_from_date_time": "1998-03-13T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Pire Asset Management"
+}

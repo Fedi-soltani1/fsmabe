@@ -1,0 +1,89 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Gent",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "23A",
+            "phone": "",
+            "street": "Schoonzichtstraat ",
+            "valid_from_date": "2018-10-31T00:00:00",
+            "valid_to_date": null,
+            "zip": "9051"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0885.750.253",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "2006-12-14T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "Value Square",
+            "valid_from_date": "2007-02-13T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 1 - RTO"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-06-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 4 - Portfolio management"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-06-22T00:00:00",
+                    "valid_to_date": null
+                },
+                {
+                    "activity": [
+                        {
+                            "name": "MiFID(A): 5 - Investment advice"
+                        }
+                    ],
+                    "to_country": null,
+                    "valid_from_date": "2016-06-22T00:00:00",
+                    "valid_to_date": null
+                }
+            ],
+            "official_list": [
+                {
+                    "name": "b. Portfolio management and investment advice companies"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian portfolio management and investment advisory firms"
+                }
+            ],
+            "valid_from_date_time": "2007-02-13T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "title": "Value Square"
+}

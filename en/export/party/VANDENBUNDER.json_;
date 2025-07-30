@@ -1,0 +1,58 @@
+{
+    "address": [
+        {
+            "building": "",
+            "city": "Diksmuide",
+            "country_code": "BE",
+            "email": "",
+            "house_number": "2",
+            "phone": "",
+            "street": "Wagenmakerijstraat(DA)",
+            "valid_from_date": "2000-07-03T00:00:00",
+            "valid_to_date": null,
+            "zip": "8600"
+        }
+    ],
+    "bank_code": null,
+    "cbfa_code": null,
+    "country_head_office": "BE",
+    "enterprise_number": "0467.567.813",
+    "legal_form_entity": [
+        {
+            "legal_form": [
+                {
+                    "name": "Public limited company"
+                }
+            ],
+            "valid_from_date_time": "1999-11-19T00:00:00",
+            "valid_to_date_time": null
+        }
+    ],
+    "legal_names": [
+        {
+            "name": "VANDENBUNDER",
+            "valid_from_date": "1999-11-19T00:00:00",
+            "valid_to_date": null
+        }
+    ],
+    "party_relationship": [],
+    "party_signal": [],
+    "statute_entity": [
+        {
+            "activities": [],
+            "official_list": [
+                {
+                    "name": "Auxiliary Agent Consumer Credit"
+                }
+            ],
+            "statute": [
+                {
+                    "name": "Belgian Consumer Credit Auxiliary Agents"
+                }
+            ],
+            "valid_from_date_time": "2017-04-19T00:00:00",
+            "valid_to_date_time": "2025-07-11T00:00:00"
+        }
+    ],
+    "title": "VANDENBUNDER"
+}
